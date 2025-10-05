@@ -1,4 +1,10 @@
-...a few sites where you can easily download or create audio content when you need it fast... plus a couple of tools.
+---
+title: Audio Resources
+tags:
+draft: false
+---
+
+a few sites where you can easily download or create audio content when you need it fast... plus a couple of tools.
 
 
 - samples and recordings
@@ -6,12 +12,24 @@
 	- https://freemusicarchive.org/genre/Sound_Effects
 	- [audio archive](https://archive.org/details/audio)
 	- https://freesound.org/
+	- video game [archive](https://downloads.khinsider.com/)
 
 - AI generation
 	- AI meta [Audiobox](https://audiobox.metademolab.com/capabilities/text_to_audio)
 
+- Radio
+	- [RadioReceiver](http://websdr.ewi.utwente.nl:8901/)
+	- [radio globe navigator](https://www.radio.garden/visit)
+
+- web instruments / samplers
+	- [patatap](https://patatap.com/)
+	- [typaTone](https://typatone.com/)
+	- https://sonicgarbage.greg.technology/ (unsure about license, but cool project)
+
 - tools
+	- 90's computer voices [generator](http://websdr.ewi.utwente.nl:8901/)
 	- [chain samples editor and export](https://digichain.brianbar.net/)
 	- [Vocal Remover & Instrumental AI Splitter | LALAL.AI](https://www.lalal.ai/)
-	- https://sonicgarbage.greg.technology/ (not sure about license here, but pretty cool project)
-
+	- for Chromium browser users: [audio capture](https://chromewebstore.google.com/detail/chrome-audio-capture/kfokdmfpdnokpmpbjhjbcabgligoelgp)
+	- Firefox: [audio Recorder](https://addons.mozilla.org/en-US/firefox/addon/audio-recorder/)
+	- 
