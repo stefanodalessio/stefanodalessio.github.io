@@ -1,3 +1,10 @@
+---
+draft: false
+title: Video Resources
+tags:
+socialImage: my-images/cover.png
+---
+
 A collection of websites / platforms that can be used to create web-based interactive narratives and games...
 
 - platforms that can be repurposed for gamified adventures
