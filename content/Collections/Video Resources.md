@@ -2,6 +2,7 @@
 draft: false
 title: Video Resources
 tags:
+socialImage: my-images/cover.png
 ---
 
 a few sites where you can easily download or create video content when you need it fast.

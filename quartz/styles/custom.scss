@@ -2,6 +2,20 @@
 
 // put your custom CSS here!
 
+//sd added this below to kill dates in folderPage file list
+// .page-listing {
+//   li.section-li:has(.section .desc a.internal[href$=date]) {
+//     .meta {
+
+//       // choose one:
+//       // hides date, removes indent
+//       display: none;
+//       // hides date, keep indent
+//       //visibility: hidden;
+//     }
+//   }
+// }
+
 
 [saved-theme="dark"] article h1 {
     color: #fe45b3;

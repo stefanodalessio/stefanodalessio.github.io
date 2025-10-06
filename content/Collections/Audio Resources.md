@@ -2,6 +2,7 @@
 title: Audio Resources
 tags:
 draft: false
+socialImage: my-images/cover.png
 ---
 
 a few sites where you can easily download or create audio content when you need it fast... plus a couple of tools.

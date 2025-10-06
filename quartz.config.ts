@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "stefanodalessio.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "modified", //sd.changed... was "created"
+    defaultDateType: "created", //sd.changed... was "created"
     generateSocialImages: false, //sd.changed... true makes nothing
     //socialImage: "my-images/cover.png", this does not work
     theme: {

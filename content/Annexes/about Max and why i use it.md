@@ -2,6 +2,7 @@
 title: About Max and why i use it
 tags:
 draft: false
+socialImage: my-images/cover.png
 ---
 
 you can download and use [Max](https://cycling74.com/) without any limitation for 30 days... and once the trial period is expired... you'll still be able to open and run your projects... or other peoples [projects](https://www.youtube.com/watch?v=GfdI5axEz-k&t=427s)... but you won't be able to save files you modified... 

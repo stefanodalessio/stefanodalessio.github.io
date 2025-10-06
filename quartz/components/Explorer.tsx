@@ -124,7 +124,8 @@ export default ((userOpts?: Partial<Options>) => {
           aria-controls="explorer-content"
           aria-expanded={true}
         >
-          {/* <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2>
+          
+          {/* <h2>{opts.title ?? i18n(cfg.locale).components.explorer.title}</h2> //sd.changed i commented this stuff to kill the explorer text and button, vscode added {} otherwise it would not work
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="14"

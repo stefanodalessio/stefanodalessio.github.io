@@ -2,6 +2,7 @@
 title: Max Resources
 draft: false
 tags:
+socialImage: my-images/cover.png
 ---
 
 Below some resources for beginners about Max 9 (https://cycling74.com/)
