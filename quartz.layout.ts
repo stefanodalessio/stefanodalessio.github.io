@@ -29,7 +29,15 @@ export const defaultContentPageLayout: PageLayout = {
     //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       // sd.changed 
-      filterFn: (node) => node.name !== "annexes"
+      filterFn: (node) => {
+    // set containing names of everything you want to filter out
+    const omit = new Set(["unlisted", "annexes"])
+ 
+    // can also use node.slug or by anything on node.data
+    // note that node.data is only present for files that exist on disk
+    // (e.g. implicit folder nodes that have no associated index.md)
+    return !omit.has(node.displayName.toLowerCase())
+  },
     }
     )),
   ],
@@ -50,7 +58,15 @@ export const defaultListPageLayout: PageLayout = {
     //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
       // sd.changed it 
-      filterFn: (node) => node.name !== "unlisted"
+      filterFn: (node) => {
+    // set containing names of everything you want to filter out
+    const omit = new Set(["unlisted", "annexes"])
+ 
+    // can also use node.slug or by anything on node.data
+    // note that node.data is only present for files that exist on disk
+    // (e.g. implicit folder nodes that have no associated index.md)
+    return !omit.has(node.displayName.toLowerCase())
+  },
     }
     )),
   ],
