@@ -27,10 +27,10 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     //Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
+    Component.DesktopOnly(Component.Explorer({ //sd.change filtering stuff from explorer below
       filterFn: (node) => {
       // set containing names of everything you want to filter out
-      const omit = new Set(["unlisted", "Annexes"])
+      const omit = new Set(["Annexes"])
  
       // can also use node.slug or by anything on node.data
       // note that node.data is only present for files that exist on disk
