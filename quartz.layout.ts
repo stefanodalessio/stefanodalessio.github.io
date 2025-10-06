@@ -14,6 +14,11 @@ export const sharedPageComponents: SharedLayout = {
   }),
 }
 
+
+// sd.change folder order to be later recolled by sortFn
+const manualOrder = ["Ploc'", "Collections"];
+
+
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
@@ -27,17 +32,28 @@ export const defaultContentPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     //Component.Darkmode(),
+
     Component.DesktopOnly(Component.Explorer({
+      //title: "_____", // title of the explorer component
+      folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderDefaultState: "open", // default state of folders ("collapsed" or "open")
+      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+      // Sort order: folders first, then files. Sort folders and files alphabetically
       // sd.changed 
+      sortFn: (a, b) => {
+        return manualOrder.indexOf(a.name) - manualOrder.indexOf(b.name);
+      },
+      
+      //  sd exclude folders from explorer
       filterFn: (node) => {
-    // set containing names of everything you want to filter out
-    const omit = new Set(["unlisted", "annexes"])
- 
-    // can also use node.slug or by anything on node.data
-    // note that node.data is only present for files that exist on disk
-    // (e.g. implicit folder nodes that have no associated index.md)
-    return !omit.has(node.displayName.toLowerCase())
-  },
+        // set containing names of everything you want to filter out
+        const omit = new Set(["unlisted", "annexes"])
+    
+        // can also use node.slug or by anything on node.data
+        // note that node.data is only present for files that exist on disk
+        // (e.g. implicit folder nodes that have no associated index.md)
+        return !omit.has(node.displayName.toLowerCase())
+      },
     }
     )),
   ],
@@ -50,6 +66,8 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
+  //sd.changed
+  //beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
@@ -57,16 +75,28 @@ export const defaultListPageLayout: PageLayout = {
     Component.Search(),
     //Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      // sd.changed it 
+
+
+
+      //title: "_____", // title of the explorer component
+      folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
+      folderDefaultState: "open", // default state of folders ("collapsed" or "open")
+      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
+      // sd.changed 
+       sortFn: (a, b) => {
+        return manualOrder.indexOf(a.name) - manualOrder.indexOf(b.name);
+      },
+
+      //  sd exclude folders from explorer
       filterFn: (node) => {
-    // set containing names of everything you want to filter out
-    const omit = new Set(["unlisted", "annexes"])
- 
-    // can also use node.slug or by anything on node.data
-    // note that node.data is only present for files that exist on disk
-    // (e.g. implicit folder nodes that have no associated index.md)
-    return !omit.has(node.displayName.toLowerCase())
-  },
+        // set containing names of everything you want to filter out
+        const omit = new Set(["unlisted", "annexes"])
+    
+        // can also use node.slug or by anything on node.data
+        // note that node.data is only present for files that exist on disk
+        // (e.g. implicit folder nodes that have no associated index.md)
+        return !omit.has(node.displayName.toLowerCase())
+      },
     }
     )),
   ],

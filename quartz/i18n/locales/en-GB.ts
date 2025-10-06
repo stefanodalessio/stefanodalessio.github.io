@@ -67,10 +67,13 @@ export default {
       notFound: "Either this page is private or doesn't exist.",
       home: "Return to Homepage",
     },
+  
     folderContent: {
-      folder: "Folder",
+     folder: "Folder",
       itemsUnderFolder: ({ count }) =>
-        count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
+        //sd.changed
+       // count === 1 ? "1 item under this folder." : `${count} items under this folder.`,
+       count === 1 ? "" : ``,
     },
     tagContent: {
       tag: "Tag",
