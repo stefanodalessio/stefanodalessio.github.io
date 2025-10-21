@@ -26,6 +26,7 @@ a few sites where you can easily download or create audio content when you need 
 	- [patatap](https://patatap.com/)
 	- [typaTone](https://typatone.com/)
 	- https://sonicgarbage.greg.technology/ (unsure about license, but cool project)
+	- [10kdrummachines](https://10kdrummachines.com/)
 
 - tools
 	- 90's computer voices [generator](http://websdr.ewi.utwente.nl:8901/)

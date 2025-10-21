@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Video Resources
+title: Gamifiable web
 tags:
 socialImage: my-images/cover.png
 ---
