@@ -19,8 +19,8 @@ Below some resources for beginners about Max 9 (https://cycling74.com/)
 ### Other Websites
  - http://peterelsea.com/maxtutorials.html
 ###  Youtube 
-- https://www.youtube.com/@JohnJannone/videos 
 - https://www.youtube.com/@C74connect/videos
+- https://www.youtube.com/@JohnJannone/videos 
 - https://www.youtube.com/@AmazingMaxStuff/videos
 - https://www.youtube.com/@dearjohnreed/videos
 - https://www.youtube.com/@MUST1002/videos

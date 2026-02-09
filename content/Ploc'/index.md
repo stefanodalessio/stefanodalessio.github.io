@@ -9,10 +9,6 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 
 (from [vocabolario triestino-italiano](https://www.atrieste.eu/Wiki/doku.php?id=dialetto:pi))
 
-#### ...more content coming soon...
-
----
-
----
+#### ...work in progress
 
 ---
