@@ -11,7 +11,9 @@ socialImage: my-images/cover.png
 - [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) will show his new piece at [WUK](https://www.wuk.at/en/programm/luigi-guerrieri-party/) after the premiere we'll celebrate with a [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) concert!!!
 #### February 5th
 - Publishing the dirst video tutorial of the [*Ploc'*](https://stefanodalessio.github.io/Ploc'/) series published: \[Ploc' 0.2]: [Embodied Interaction in Max 9 - An Introduction to the ste.snips package](https://www.youtube.com/watch?v=CFEmNGRiO-Y&t=6s)
-> [!info] [*Ploc'* ](https://stefanodalessio.github.io/Ploc'/) is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. [*Ploc'*](https://stefanodalessio.github.io/Ploc'/) is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna)
+%% [*Ploc'* ](https://stefanodalessio.github.io/Ploc'/) is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. [*Ploc'*](https://stefanodalessio.github.io/Ploc'/) is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna) %%
+
+
 
 #### January 15th
 - Performing [L.O.L.B.](https://cargocollective.com/stefanodalessio/Longevity-of-Light-Bulbs) at [Kulturhaus Brotfabrik](https://www.kulturhaus-brotfabrik.at/veranstaltungen/2026/jaenner/miniaturen-longevity-of-light-bulbs-and-how-to-make-them-last-longer?veranstaltunguid=301976&cHash=b48fa38332b851a7d406a1273cc884c8), Vienna (AT)
