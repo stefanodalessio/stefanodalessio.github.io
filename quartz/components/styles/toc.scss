@@ -101,7 +101,7 @@ button#toc {
   }
 }
 
-/* sd added Force compact TOC line-height to override global rules */
+/* sd AI added Force compact TOC line-height to override global rules */
 #toc-content,
 #toc-content ul,
 #toc-content ul > li,
@@ -115,4 +115,19 @@ button#toc {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
-// sd addition stops here
+
+
+/* Ensure TOC stays compact even when placed inside table cells */
+.table-container td #toc-content,
+.table-container td #toc-content *,
+#toc-content p {
+  line-height: 1 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* If anchors are wrapping inside table cells, keep their line-height tight */
+.table-container td #toc-content ul > li > a {
+  line-height: 1 !important;
+}
+// sd AI addition stops here
