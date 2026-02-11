@@ -67,14 +67,21 @@ button#toc {
 
   & ul {
     list-style: none;
-    margin: 0.5rem 0; // sd added this to give a little more space between the toc and the content
+    margin: 0.15rem 0; // tighter spacing between the TOC and content
     padding: 0;
+    & > li {
+      margin: 0.05rem 0; // minimal vertical gap between lines
+    }
     & > li > a {
       color: var(--dark);
       opacity: 0.35;
       transition:
         0.5s ease opacity,
         0.3s ease color;
+      line-height: 1.0; // compact line spacing
+      font-size: 0.95rem;
+      padding-top: 0;
+      padding-bottom: 0;
       &.in-view {
         opacity: 0.75;
       }

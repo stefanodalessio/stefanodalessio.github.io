@@ -15,13 +15,14 @@ details#toc {
 
   & ul {
     list-style: none;
-    margin: 0.25rem 1.25rem;
+    margin: 0.15rem 1.25rem; // tightened spacing
     padding: 0;
     & > li {
-      margin: 0.15rem 0;
+      margin: 0.05rem 0;
     }
     & a {
-      line-height: 1.2;
+      line-height: 1.0; // compact lines
+      font-size: 0.95rem;
       padding-top: 0;
       padding-bottom: 0;
     }
