@@ -10,19 +10,21 @@ socialImage: my-images/cover.png
 #### March 4th
 - [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) will show his new piece at [WUK](https://www.wuk.at/en/programm/luigi-guerrieri-party/) after the premiere we'll celebrate with a [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) concert!!!
 #### February 5th
-- First video tutorial of the [*Ploc'*](https://stefanodalessio.github.io/Ploc'/) series published: \[Ploc' 0.2]: [Embodied Interaction in Max 9 - An Introduction to the ste.snips package](https://www.youtube.com/watch?v=CFEmNGRiO-Y&t=6s)
-	- [*Ploc'* ](https://stefanodalessio.github.io/Ploc'/) is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. [*Ploc'*](https://stefanodalessio.github.io/Ploc'/) is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna)
+- Publishing the dirst video tutorial of the [*Ploc'*](https://stefanodalessio.github.io/Ploc'/) series published: \[Ploc' 0.2]: [Embodied Interaction in Max 9 - An Introduction to the ste.snips package](https://www.youtube.com/watch?v=CFEmNGRiO-Y&t=6s)
+> [!info] [*Ploc'* ](https://stefanodalessio.github.io/Ploc'/) is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. [*Ploc'*](https://stefanodalessio.github.io/Ploc'/) is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna)
+
 #### January 15th
 - Performing [L.O.L.B.](https://cargocollective.com/stefanodalessio/Longevity-of-Light-Bulbs) at [Kulturhaus Brotfabrik](https://www.kulturhaus-brotfabrik.at/veranstaltungen/2026/jaenner/miniaturen-longevity-of-light-bulbs-and-how-to-make-them-last-longer?veranstaltunguid=301976&cHash=b48fa38332b851a7d406a1273cc884c8), Vienna (AT)
 - Lights and Music for the [Angewante Rektor Inauguration](https://www.dieangewandte.at/en/news/news/news_detail?news_id=1768534939915#:~:text=On%2015%20January%202025%2C%20Ulrike%20Kuch%20was%20officially,and%20a%20film%2C%20followed%20by%20a%20lively%20celebration.)
 
-
+---
 ## 2025
 
 #### December 10th - 12th
 - Teaching *Stage-Based interaction* at [Kunstuniversität Linz](https://www.kunstuni-linz.at/) / [Interface culture](https://www.kunstuni-linz.at/en/studies/degree-programmes/interface-cultures/interface-cultures-master-programme). Linz (AT)
 #### December 9th
-- Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.6, a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.
+- Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.6
+> [!info] [ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.
 #### December 1st - 4th
 - Teaching *Generative Sound and Visual Art* at [FH Salzburg](https://www.fh-salzburg.ac.at/) / [MultiMediaArt](https://www.fh-salzburg.ac.at/studium/ct/multimediaart-master)
 #### November
@@ -35,16 +37,19 @@ socialImage: my-images/cover.png
 	- Friday 14th at [Pixxelpoint](https://www.pixxelpoint.org/en/en.html), part of the [GO!2025](www.go2025.eu) at the [Kulturni Dom](kulturnidom-ng.si), Nova Gorica (SI)
 		- Check the photos [here](https://bsky.app/profile/stefanodalessio.bsky.social/post/3mele6ylyxq2i)
 	- Saturday 15th, with a presentation and discussion at the [XCenter](https://xcenter.si/en), Nova Gorica (SI)
-		- The tour has been realized with the support of [BMWKMS](https://www.bmwkms.gv.at/en.html) (Federal Ministry of Housing, Arts, Culture, Media and Sport Republic of Austria)
+> [!info] The tour has been realized with the support of [BMWKMS](https://www.bmwkms.gv.at/en.html) (Federal Ministry of Housing, Arts, Culture, Media and Sport Republic of Austria)
 #### October - November
 - Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2025W/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/)
 #### October 11th
 - GIGGIDALESSIO at [De-Semble festival](https://www.de-semble.at/program/)  / [Bears in the Park](https://bearsinthepark.org/) 
 #### October 2nd
-- Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.4, a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.
+- Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.4
+> [!info] [ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.
+#### December 1st - 4th
 #### July 12th
 - Debut of *GIGGIDALESSIO*, italo-techno-pink duo with [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) at the [Blöde Dritte Mittwoch](https://bloedermittwoch.klingt.org/), in [Lindabrunn](https://symposion-lindabrunn.at/) (AT)
-  [HERE](https://www.youtube.com/watch?v=ZIp05mPIYX4) a small documentation of the performance
+	- [Here](https://www.youtube.com/watch?v=ZIp05mPIYX4) is a small documentation of the performance
+  
 #### June
 - New work *CRYSTALCORE* at the [Angewandte Festival 2025](https://www.dieangewandte.at/termine/angewandte_festival_2025_25-06-2025)
 - New [video Interview](https://www.okto.tv/de/sendereihe/kurzundgut/video/684ee7be4f3b6/fuelnoises-eine-audiovisuelle-performance-von-stefano-dalessio) with [Anna Vasof](https://annavasof.net/) for [Okto TV](https://www.okto.tv/) about [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises)
@@ -56,14 +61,14 @@ socialImage: my-images/cover.png
 #### January-February
 - Advising for [Daphna Hornczyk](https://daphnahorenczyk.com/news)'s [RAGE](https://daphnahorenczyk.com/stage/rage) on music and technology
 
-
+---
 ## 2024
 
 #### December 16th - 18th
 - Teaching *Stage-Based interaction* at [Kunstuniversität Linz](https://www.kunstuni-linz.at/) / [Interface culture](https://www.kunstuni-linz.at/en/studies/degree-programmes/interface-cultures/interface-cultures-master-programme). Linz (AT)
 #### December 1st - 3rd
 - Symposium [Interactive technologies in dance, practice and ecology](https://taniecpolska.pl/en/news/lodz-from-cunningham-to-dancing-avatars-workshop-on-new-technologies-in-dance-and-international-scientific-symposium/) at the Lodz Grand Theatre (Teatr Wielki w Łodzi), Lodz (PL).
-  [Here](https://bsky.app/profile/ste.tldr.nettime.org.ap.brid.gy/post/3llw7aj4otdy2) some pics
+	- [Here](https://bsky.app/profile/ste.tldr.nettime.org.ap.brid.gy/post/3llw7aj4otdy2) some pics
 #### November
 - Got the 2025 *Arbeit Stipendium* for performance art 🎉 from [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna). The plan is to develop a toolkit to facilitate the implementation of embodied interaction in art and performance. I am building a dedicated [web-space](https://stefanodalessio.github.io/) for it.
 #### October
@@ -73,9 +78,10 @@ socialImage: my-images/cover.png
 #### June
 - Started teaching at [FH Salzburg](https://www.fh-salzburg.ac.at/) / [MultiMediaArt](https://www.fh-salzburg.ac.at/studium/ct/multimediaart-master). My course is titled *Generative Sound and Visual Art*
 #### May
-- 29th, 30th, 31st [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) premieres at [Theater am Werk](https://www.theater-am-werk.at/de), Vienna (AT). The project is a cooperation with [Theater am Werk](https://www.theater-am-werk.at/de). With the kind support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna), [BMKOES](https://www.bmwkms.gv.at/) (Federal Ministry of Art, Culture, Public Service and Sport Austria), [Bears in the Park](https://bearsinthepark.org/), [Symposiom-Lindabrunn](https://www.symposion-lindabrunn.at/) and [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/).
+- 29th, 30th, 31st [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) premieres at [Theater am Werk](https://www.theater-am-werk.at/de), Vienna (AT). 
+> [!info] The project is a cooperation with [Theater am Werk](https://www.theater-am-werk.at/de). With the kind support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna), [BMKOES](https://www.bmwkms.gv.at/) (Federal Ministry of Art, Culture, Public Service and Sport Austria), [Bears in the Park](https://bearsinthepark.org/), [Symposiom-Lindabrunn](https://www.symposion-lindabrunn.at/) and [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/).
 
-
+---
 ## 2023
 
 #### September - October
@@ -86,7 +92,7 @@ socialImage: my-images/cover.png
 - Started teaching at [Kunstuniversität Linz](https://www.kunstuni-linz.at/) / [Interface culture](https://www.kunstuni-linz.at/en/studies/degree-programmes/interface-cultures/interface-cultures-master-programme). My course is titled _Stage-based interaction_.
 #### June - September
 - New work: *wageless* at [Artificial Intuition](https://www.voxels.com/events/4126), co-curated by ChatGPT and [Eva Fischer](https://evafischer.org/projects/), [Digital Francisco Carolinum](https://www.ooekultur.at/location-detail/dfc-digital-francisco-carolinum), Linz (AT).
-  You can see the catalog [HERE](https://drive.google.com/file/d/1-J4EHWiYpny6Wv1DjAvyS6BuajFSr4i0/view), you can find my new work **wageless** at page 11.
+	  - You can see the catalog [HERE](https://drive.google.com/file/d/1-J4EHWiYpny6Wv1DjAvyS6BuajFSr4i0/view), you can find my new work **wageless** at page 11.
 #### June 5th
 - Performing [Blue Light](https://cargocollective.com/stefanodalessio/Blue-Light) at the [FMR festival](https://www.linzfmr.at/#about), Linz (AT)
 #### May 25th
