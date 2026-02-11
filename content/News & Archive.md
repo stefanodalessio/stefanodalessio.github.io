@@ -4,6 +4,7 @@ title: News & Archive
 socialImage: my-images/cover.png
 ---
 ## 2026
+---
 
 |            |                                                                                                                                              |     |
 | ---------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --- |
@@ -13,10 +14,9 @@ socialImage: my-images/cover.png
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Mar 4 | [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) will show his new piece at [WUK](https://www.wuk.at/en/programm/luigi-guerrieri-party/) <br>after the premiere we'll celebrate with a [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) concert! |
 
-|       |                                                                                                                                                                                                                                                                                                                                                                                             |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Feb 5 | Publishing the dirst video tutorial of the *[[Ploc']]* series published: <br>\[Ploc' 0.2]: [Embodied Interaction in Max 9 - An Introduction to the ste.snips package](https://www.youtube.com/watch?v=CFEmNGRiO-Y&t=6s)                                                                                                                                                                     |
-|       | <span style="font-size:0.8em; color:#777; line-height:1.5; display:block;">*[[Ploc']]* is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. *[[Ploc']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna) </span> |
+|       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Feb 5 | Publishing the dirst video tutorial of the *[[Ploc']]* series published: <br>\[Ploc' 0.2]: [Embodied Interaction in Max 9 - An Introduction to the ste.snips package](https://www.youtube.com/watch?v=CFEmNGRiO-Y&t=6s)<br><span style="font-size:0.8em; color:#777; line-height:1.5; display:block;">*[[Ploc']]* is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. *[[Ploc']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna) </span> |
 
 |        |                                                                                                                                                                                                                                                                                                                                            |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -25,26 +25,33 @@ socialImage: my-images/cover.png
 
 ---
 ## 2025
-
+---
 
 |             |                                                                                                                                                                                                                                                 |
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dec 10 - 12 | Teaching *Stage-Based interaction* at [Kunstuniversität Linz](https://www.kunstuni-linz.at/) / [Interface culture](https://www.kunstuni-linz.at/en/studies/degree-programmes/interface-cultures/interface-cultures-master-programme). Linz (AT) |
 
 
-|       |                                                                                                                                                                                                                                                                                                                                                                     |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dec 9 | Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.6                                                                                                                                                                                                                                                                                         |
-|       | <span style="font-size:0.8em; color:#777; line-height:1.5; display:block;">[ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.</span> |
+|       |                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dec 9 | Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.6<br><span style="font-size:0.8em; color:#777; line-height:1.5; display:block;">[ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.</span> |
 
 |                |                                                                                                                                                                              |
 | -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | December 1 - 4 | Teaching *Generative Sound and Visual Art* at [FH Salzburg](https://www.fh-salzburg.ac.at/) / [MultiMediaArt](https://www.fh-salzburg.ac.at/studium/ct/multimediaart-master) |
 
-|               |                                                                                                                                                                                                                      |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| November 28th | New [video](https://www.youtube.com/watch?v=gbr-w0ZD8R0) documentation of our *GIGGIDALESSIO* concert at [De-Semble festival](https://www.de-semble.at/program/)  / [Bears in the Park](https://bearsinthepark.org/) |
-|               | <span style="font-size:0.8em; color:#777; line-height:1.5; display:block;">*GIGGIDALESSIO* is an italo-techno-pink duo with [Luigi Guerrieri](https://www.luigiguerrieri.com/content/)</span>                        |
+|               |                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| November 28th | New [video](https://www.youtube.com/watch?v=gbr-w0ZD8R0) documentation of our *GIGGIDALESSIO* concert at [De-Semble festival](https://www.de-semble.at/program/)  / [Bears in the Park](https://bearsinthepark.org/)<br><span style="font-size:0.8em; color:#777; line-height:1.5; display:block;">*GIGGIDALESSIO* is an italo-techno-pink duo with [Luigi Guerrieri](https://www.luigiguerrieri.com/content/)</span> |
+
+|               |                                                                                                                                                                                                                                                                                                                        |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| November 19th | New [interview](https://youtu.be/ztFcN0zH0VA?si=o-p7fqyLvG-4LDlF&t=1682) by Maša Žekš with the artists of [Pixxelpoint](https://www.pixxelpoint.org/en/en.html), we talked [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises), Climate Conspiracies, Embodied Interaction, Education, GIGGIDALESSIO. |
+
+|                     |                                                                                |
+| ------------------- | ------------------------------------------------------------------------------ |
+| November 5th - 15th | [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) tour:<br> |
+|                     |                                                                                |
 
 |      |     |
 | ---- | --- |
@@ -85,19 +92,6 @@ socialImage: my-images/cover.png
 |      |     |
 | ---- | --- |
 | DATE |     |
-
-|      |     |
-| ---- | --- |
-| DATE |     |
-
-|      |     |
-| ---- | --- |
-| DATE |     |
-
-- **November 28th:** New [video](https://www.youtube.com/watch?v=gbr-w0ZD8R0) documentation of our *GIGGIDALESSIO* concert at [De-Semble festival](https://www.de-semble.at/program/)  / [Bears in the Park](https://bearsinthepark.org/)
-	- GIGGIDALESSIO is an italo-techno-pink duo with [Luigi Guerrieri](https://www.luigiguerrieri.com/content/)
-
-- **November 19th:** New [interview](https://youtu.be/ztFcN0zH0VA?si=o-p7fqyLvG-4LDlF&t=1682) by Maša Žekš with the artists of [Pixxelpoint](https://www.pixxelpoint.org/en/en.html), we talked [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises), Climate Conspiracies, Embodied Interaction, Education, GIGGIDALESSIO.
 
 - **November 5th - 15th:** [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) tour:
 	- Wednesday 5th at the festival [Theater Der Dinge](https://schaubude.berlin/de/spielplan/fuelnoises/) in Berlin (DE) 

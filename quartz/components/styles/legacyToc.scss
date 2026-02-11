@@ -36,3 +36,18 @@ details#toc {
     }
   }
 }
+
+/* sd added: Force compact TOC line-height to override global rules for legacy TOC */
+details#toc ul,
+details#toc ul > li,
+details#toc ul > li > a {
+  line-height: 1 !important;
+}
+
+details#toc ul > li > a {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+// sd addition stops here
