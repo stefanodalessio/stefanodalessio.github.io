@@ -71,8 +71,10 @@ button#toc {
     padding: 0;
     & > li {
       margin: 0.05rem 0; // minimal vertical gap between lines
+      line-height: 1; // ensure li uses compact line-height instead of global li rule
     }
     & > li > a {
+      display: block; // make anchor a block so wrapped lines respect this line-height
       color: var(--dark);
       opacity: 0.35;
       transition:
