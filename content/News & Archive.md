@@ -22,6 +22,8 @@ socialImage: my-images/cover.png
 
 
 
+
+
 #### January 15th
 - Performing [L.O.L.B.](https://cargocollective.com/stefanodalessio/Longevity-of-Light-Bulbs) at [Kulturhaus Brotfabrik](https://www.kulturhaus-brotfabrik.at/veranstaltungen/2026/jaenner/miniaturen-longevity-of-light-bulbs-and-how-to-make-them-last-longer?veranstaltunguid=301976&cHash=b48fa38332b851a7d406a1273cc884c8), Vienna (AT)
 - Lights and Music for the [Angewante Rektor Inauguration](https://www.dieangewandte.at/en/news/news/news_detail?news_id=1768534939915#:~:text=On%2015%20January%202025%2C%20Ulrike%20Kuch%20was%20officially,and%20a%20film%2C%20followed%20by%20a%20lively%20celebration.)
