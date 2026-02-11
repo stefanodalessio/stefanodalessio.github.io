@@ -67,21 +67,18 @@ button#toc {
 
   & ul {
     list-style: none;
-    margin: 0.15rem 0; // tighter spacing between the TOC and content
+    margin: 0.25rem 0;
     padding: 0;
     & > li {
-      margin: 0.05rem 0; // minimal vertical gap between lines
-      line-height: 1; // ensure li uses compact line-height instead of global li rule
+      margin: 0.15rem 0;
     }
     & > li > a {
-      display: block; // make anchor a block so wrapped lines respect this line-height
       color: var(--dark);
       opacity: 0.35;
       transition:
         0.5s ease opacity,
         0.3s ease color;
-      line-height: 1.0; // compact line spacing
-      font-size: 0.95rem;
+      line-height: 1.2;
       padding-top: 0;
       padding-bottom: 0;
       &.in-view {
@@ -100,34 +97,3 @@ button#toc {
     }
   }
 }
-
-/* sd AI added Force compact TOC line-height to override global rules */
-#toc-content,
-#toc-content ul,
-#toc-content ul > li,
-#toc-content ul > li > a {
-  line-height: 1 !important;
-}
-
-#toc-content ul > li > a {
-  padding-top: 0 !important;
-  padding-bottom: 0 !important;
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-
-/* Ensure TOC stays compact even when placed inside table cells */
-.table-container td #toc-content,
-.table-container td #toc-content *,
-#toc-content p {
-  line-height: 1 !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-/* If anchors are wrapping inside table cells, keep their line-height tight */
-.table-container td #toc-content ul > li > a {
-  line-height: 1 !important;
-}
-// sd AI addition stops here
