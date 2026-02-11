@@ -4,7 +4,6 @@ title: News & Archive
 socialImage: my-images/cover.png
 ---
 ## 2026
----
 
 |         |                                                                                                                                              |     |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --- |
@@ -23,9 +22,10 @@ socialImage: my-images/cover.png
 | Jan 15 | Performing [L.O.L.B.](https://cargocollective.com/stefanodalessio/Longevity-of-Light-Bulbs) at [Kulturhaus Brotfabrik](https://www.kulturhaus-brotfabrik.at/veranstaltungen/2026/jaenner/miniaturen-longevity-of-light-bulbs-and-how-to-make-them-last-longer?veranstaltunguid=301976&cHash=b48fa38332b851a7d406a1273cc884c8), Vienna (AT) |
 |        | Lights and Music for the [Angewante Rektor Inauguration](https://www.dieangewandte.at/en/news/news/news_detail?news_id=1768534939915#:~:text=On%2015%20January%202025%2C%20Ulrike%20Kuch%20was%20officially,and%20a%20film%2C%20followed%20by%20a%20lively%20celebration.), Vienna (AT)                                                    |
 
----
+|     |     |
+| --- | --- |
+
 ## 2025
----
 
 |           |                                                                                                                                                                                                                                                 |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -91,12 +91,10 @@ socialImage: my-images/cover.png
 | ------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Jan-Feb | Advising for [Daphna Hornczyk](https://daphnahorenczyk.com/news)'s [RAGE](https://daphnahorenczyk.com/stage/rage) on music and new technology |
 
+|     |     |
+| --- | --- |
 
----
 ## 2024
----
-
-
 
 |           |                                                                                                                                                                                                                                                 |
 | --------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -129,9 +127,10 @@ socialImage: my-images/cover.png
 | May 29 | Premiere of [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) at [Theater am Werk](https://www.theater-am-werk.at/de), Vienna (AT)                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |        | <span style="font-size:0.8em; color:#777; line-height:1.5; display:block;">The project is a cooperation with [Theater am Werk](https://www.theater-am-werk.at/de). With the kind support of [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna), [BMKOES](https://www.bmwkms.gv.at/) (Federal Ministry of Art, Culture, Public Service and Sport Austria), [Bears in the Park](https://bearsinthepark.org/), [Symposiom-Lindabrunn](https://www.symposion-lindabrunn.at/) and [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/).</span> |
 
----
+|     |     |
+| --- | --- |
+
 ## 2023
----
 
 |         |                                                                                                                                                             |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
