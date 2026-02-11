@@ -31,7 +31,6 @@ socialImage: my-images/cover.png
 | ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dec 10 - 12 | Teaching *Stage-Based interaction* at [Kunstuniversität Linz](https://www.kunstuni-linz.at/) / [Interface culture](https://www.kunstuni-linz.at/en/studies/degree-programmes/interface-cultures/interface-cultures-master-programme). Linz (AT) |
 
-
 |       |                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Dec 9 | Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.6<br><span style="font-size:0.8em; color:#777; line-height:1.5; display:block;">[ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.</span> |
@@ -47,19 +46,15 @@ socialImage: my-images/cover.png
 |               |                                                                                                                                                                                                                                                                                                                        |
 | ------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | November 19th | New [interview](https://youtu.be/ztFcN0zH0VA?si=o-p7fqyLvG-4LDlF&t=1682) by Maša Žekš with the artists of [Pixxelpoint](https://www.pixxelpoint.org/en/en.html), we talked [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises), Climate Conspiracies, Embodied Interaction, Education, GIGGIDALESSIO. |
+|               |                                                                                                                                                                                                                                                                                                                        |
+|               |                                                                                                                                                                                                                                                                                                                        |
+|               |                                                                                                                                                                                                                                                                                                                        |
 
-|                     |                                                                                |
-| ------------------- | ------------------------------------------------------------------------------ |
-| November 5th - 15th | [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) tour:<br> |
-|                     |                                                                                |
+November 5  5  | [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) tour:<br> - Wednesday 5th at the festival [Theater Der Dinge](https://schaubude.berlin/de/spielplan/fuelnoises/) in Berlin (DE) <br>		- Check the photos [here](https://bsky.app/profile/stefanodalessio.bsky.social/post/3m5h77xbiwt2i)<br>	- Friday 14th at [Pixxelpoint](https://www.pixxelpoint.org/en/en.html), part of the [GO!2025](https://www.go2025.eu) at the [Kulturni Dom](https://kulturnidom-ng.si), Nova Gorica (SI)<br>		- Check the photos [here](https://bsky.app/profile/stefanodalessio.bsky.social/post/3mele6ylyxq2i)<br>	- Saturday 15th, with a presentation and discussion at the [XCenter](https://xcenter.si/en), Nova Gorica (SI)<br> |                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
-|      |     |
-| ---- | --- |
-| DATE |     |
-
-|      |     |
-| ---- | --- |
-| DATE |     |
+|       |     |
+| ----- | --- |
+| Nov 5 |     |
 
 |      |     |
 | ---- | --- |
@@ -93,12 +88,11 @@ socialImage: my-images/cover.png
 | ---- | --- |
 | DATE |     |
 
-- **November 5th - 15th:** [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) tour:
-	- Wednesday 5th at the festival [Theater Der Dinge](https://schaubude.berlin/de/spielplan/fuelnoises/) in Berlin (DE) 
-		- Check the photos [here](https://bsky.app/profile/stefanodalessio.bsky.social/post/3m5h77xbiwt2i)
-	- Friday 14th at [Pixxelpoint](https://www.pixxelpoint.org/en/en.html), part of the [GO!2025](www.go2025.eu) at the [Kulturni Dom](kulturnidom-ng.si), Nova Gorica (SI)
-		- Check the photos [here](https://bsky.app/profile/stefanodalessio.bsky.social/post/3mele6ylyxq2i)
-	- Saturday 15th, with a presentation and discussion at the [XCenter](https://xcenter.si/en), Nova Gorica (SI)
+|      |     |
+| ---- | --- |
+| DATE |     |
+
+- 
 > [!info] The tour has been realized with the support of [BMWKMS](https://www.bmwkms.gv.at/en.html) (Federal Ministry of Housing, Arts, Culture, Media and Sport Republic of Austria)
 
 - **October - November:** Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2025W/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/)
