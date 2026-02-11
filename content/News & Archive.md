@@ -5,72 +5,71 @@ socialImage: my-images/cover.png
 ---
 ## 2026
 
-#### May-June
-- Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2026S/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/)
-#### March 4th
-- [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) will show his new piece at [WUK](https://www.wuk.at/en/programm/luigi-guerrieri-party/) after the premiere we'll celebrate with a [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) concert!!!
-#### February 5th
-- Publishing the dirst video tutorial of the [*Ploc'*](https://stefanodalessio.github.io/Ploc'/) series published: \[Ploc' 0.2]: [Embodied Interaction in Max 9 - An Introduction to the ste.snips package](https://www.youtube.com/watch?v=CFEmNGRiO-Y&t=6s)
+
+- **May-June:** Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2026S/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/)
+
+- **March 4th:** [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) will show his new piece at [WUK](https://www.wuk.at/en/programm/luigi-guerrieri-party/) after the premiere we'll celebrate with a [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) concert!!!
+
+- **February 5th:** Publishing the dirst video tutorial of the [*Ploc'*](https://stefanodalessio.github.io/Ploc'/) series published: \[Ploc' 0.2]: [Embodied Interaction in Max 9 - An Introduction to the ste.snips package](https://www.youtube.com/watch?v=CFEmNGRiO-Y&t=6s)
 
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 |     | <span style="font-size:0.8em; color:#777; line-height:1.5; display:block;">[*Ploc'*](https://stefanodalessio.github.io/Ploc'/) is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. [*Ploc'*](https://stefanodalessio.github.io/Ploc'/) is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna) </span> |     |
 |     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |     |
 
+|     |     |
+| --- | --- |
+|     |     |
 
 
-
-
-
-
-
-#### January 15th
-- Performing [L.O.L.B.](https://cargocollective.com/stefanodalessio/Longevity-of-Light-Bulbs) at [Kulturhaus Brotfabrik](https://www.kulturhaus-brotfabrik.at/veranstaltungen/2026/jaenner/miniaturen-longevity-of-light-bulbs-and-how-to-make-them-last-longer?veranstaltunguid=301976&cHash=b48fa38332b851a7d406a1273cc884c8), Vienna (AT)
-- Lights and Music for the [Angewante Rektor Inauguration](https://www.dieangewandte.at/en/news/news/news_detail?news_id=1768534939915#:~:text=On%2015%20January%202025%2C%20Ulrike%20Kuch%20was%20officially,and%20a%20film%2C%20followed%20by%20a%20lively%20celebration.)
+- **January 15th:** Performing [L.O.L.B.](https://cargocollective.com/stefanodalessio/Longevity-of-Light-Bulbs) at [Kulturhaus Brotfabrik](https://www.kulturhaus-brotfabrik.at/veranstaltungen/2026/jaenner/miniaturen-longevity-of-light-bulbs-and-how-to-make-them-last-longer?veranstaltunguid=301976&cHash=b48fa38332b851a7d406a1273cc884c8), Vienna (AT)
+- **January 15th:** Lights and Music for the [Angewante Rektor Inauguration](https://www.dieangewandte.at/en/news/news/news_detail?news_id=1768534939915#:~:text=On%2015%20January%202025%2C%20Ulrike%20Kuch%20was%20officially,and%20a%20film%2C%20followed%20by%20a%20lively%20celebration.)
 
 ---
 ## 2025
 
-#### December 10th - 12th
-- Teaching *Stage-Based interaction* at [Kunstuniversität Linz](https://www.kunstuni-linz.at/) / [Interface culture](https://www.kunstuni-linz.at/en/studies/degree-programmes/interface-cultures/interface-cultures-master-programme). Linz (AT)
-#### December 9th
-- Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.6
+
+- **December 10th - 12th:** Teaching *Stage-Based interaction* at [Kunstuniversität Linz](https://www.kunstuni-linz.at/) / [Interface culture](https://www.kunstuni-linz.at/en/studies/degree-programmes/interface-cultures/interface-cultures-master-programme). Linz (AT)
+
+- **December 9th:** Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.6
 > [!info] [ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.
-#### December 1st - 4th
-- Teaching *Generative Sound and Visual Art* at [FH Salzburg](https://www.fh-salzburg.ac.at/) / [MultiMediaArt](https://www.fh-salzburg.ac.at/studium/ct/multimediaart-master)
-#### November
-- New [video](https://www.youtube.com/watch?v=gbr-w0ZD8R0) documentation of our *GIGGIDALESSIO* concert at [De-Semble festival](https://www.de-semble.at/program/)  / [Bears in the Park](https://bearsinthepark.org/)
+
+- **December 1st - 4th:** Teaching *Generative Sound and Visual Art* at [FH Salzburg](https://www.fh-salzburg.ac.at/) / [MultiMediaArt](https://www.fh-salzburg.ac.at/studium/ct/multimediaart-master)
+
+- **November 28th:** New [video](https://www.youtube.com/watch?v=gbr-w0ZD8R0) documentation of our *GIGGIDALESSIO* concert at [De-Semble festival](https://www.de-semble.at/program/)  / [Bears in the Park](https://bearsinthepark.org/)
 	- GIGGIDALESSIO is an italo-techno-pink duo with [Luigi Guerrieri](https://www.luigiguerrieri.com/content/)
-- New [interview](https://youtu.be/ztFcN0zH0VA?si=o-p7fqyLvG-4LDlF&t=1682) by Maša Žekš with the artists of [Pixxelpoint](https://www.pixxelpoint.org/en/en.html), we talked [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises), Climate Conspiracies, Embodied Interaction, Education, GIGGIDALESSIO.
-- [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) tour:
+
+- **November 19th:** New [interview](https://youtu.be/ztFcN0zH0VA?si=o-p7fqyLvG-4LDlF&t=1682) by Maša Žekš with the artists of [Pixxelpoint](https://www.pixxelpoint.org/en/en.html), we talked [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises), Climate Conspiracies, Embodied Interaction, Education, GIGGIDALESSIO.
+
+- **November 5th - 15th:** [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) tour:
 	- Wednesday 5th at the festival [Theater Der Dinge](https://schaubude.berlin/de/spielplan/fuelnoises/) in Berlin (DE) 
 		- Check the photos [here](https://bsky.app/profile/stefanodalessio.bsky.social/post/3m5h77xbiwt2i)
 	- Friday 14th at [Pixxelpoint](https://www.pixxelpoint.org/en/en.html), part of the [GO!2025](www.go2025.eu) at the [Kulturni Dom](kulturnidom-ng.si), Nova Gorica (SI)
 		- Check the photos [here](https://bsky.app/profile/stefanodalessio.bsky.social/post/3mele6ylyxq2i)
 	- Saturday 15th, with a presentation and discussion at the [XCenter](https://xcenter.si/en), Nova Gorica (SI)
 > [!info] The tour has been realized with the support of [BMWKMS](https://www.bmwkms.gv.at/en.html) (Federal Ministry of Housing, Arts, Culture, Media and Sport Republic of Austria)
-#### October - November
-- Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2025W/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/)
-#### October 11th
-- GIGGIDALESSIO at [De-Semble festival](https://www.de-semble.at/program/)  / [Bears in the Park](https://bearsinthepark.org/) 
-#### October 2nd
-- Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.4
+
+- **October - November:** Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2025W/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/)
+
+- **October 11th:** GIGGIDALESSIO at [De-Semble festival](https://www.de-semble.at/program/)  / [Bears in the Park](https://bearsinthepark.org/) 
+
+- **October 2nd:** Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.4
 > [!info] [ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.
-#### December 1st - 4th
-#### July 12th
-- Debut of *GIGGIDALESSIO*, italo-techno-pink duo with [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) at the [Blöde Dritte Mittwoch](https://bloedermittwoch.klingt.org/), in [Lindabrunn](https://symposion-lindabrunn.at/) (AT)
+
+
+- **July 12th:** Debut of *GIGGIDALESSIO*, italo-techno-pink duo with [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) at the [Blöde Dritte Mittwoch](https://bloedermittwoch.klingt.org/), in [Lindabrunn](https://symposion-lindabrunn.at/) (AT)
 	- [Here](https://www.youtube.com/watch?v=ZIp05mPIYX4) is a small documentation of the performance
   
-#### June
-- New work *CRYSTALCORE* at the [Angewandte Festival 2025](https://www.dieangewandte.at/termine/angewandte_festival_2025_25-06-2025)
-- New [video Interview](https://www.okto.tv/de/sendereihe/kurzundgut/video/684ee7be4f3b6/fuelnoises-eine-audiovisuelle-performance-von-stefano-dalessio) with [Anna Vasof](https://annavasof.net/) for [Okto TV](https://www.okto.tv/) about [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises)
-#### May-June
-- Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2025S/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/)
-#### April 9th
-- Performing [L.O.L.B.](https://cargocollective.com/stefanodalessio/Longevity-of-Light-Bulbs) at [Salon Souterrain](https://www.wuk.at/programm/salon-souterrain-nowtopia/), [WUK](https://www.wuk.at/wuk-performing-arts/), Vienna (AT)
+
+- **June 25th - 28th:** New work *CRYSTALCORE* at the [Angewandte Festival 2025](https://www.dieangewandte.at/termine/angewandte_festival_2025_25-06-2025)
+- **June 15th:** New [video Interview](https://www.okto.tv/de/sendereihe/kurzundgut/video/684ee7be4f3b6/fuelnoises-eine-audiovisuelle-performance-von-stefano-dalessio) with [Anna Vasof](https://annavasof.net/) for [Okto TV](https://www.okto.tv/) about [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises)
+
+- **May-June:** Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2025S/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/)
+
+- **April 9th:** Performing [L.O.L.B.](https://cargocollective.com/stefanodalessio/Longevity-of-Light-Bulbs) at [Salon Souterrain](https://www.wuk.at/programm/salon-souterrain-nowtopia/), [WUK](https://www.wuk.at/wuk-performing-arts/), Vienna (AT)
 	- Check some photos [here](https://bsky.app/profile/stefanodalessio.bsky.social/post/3lp2re5rpdw2d)
-#### January-February
-- Advising for [Daphna Hornczyk](https://daphnahorenczyk.com/news)'s [RAGE](https://daphnahorenczyk.com/stage/rage) on music and technology
+
+- **January-February:** Advising for [Daphna Hornczyk](https://daphnahorenczyk.com/news)'s [RAGE](https://daphnahorenczyk.com/stage/rage) on music and technology
 
 ---
 ## 2024
