@@ -67,7 +67,7 @@ button#toc {
 
   & ul {
     list-style: none;
-    margin: 0.5rem 0;
+    margin: 0.5rem 0; // sd added this to give a little more space between the toc and the content
     padding: 0;
     & > li > a {
       color: var(--dark);
