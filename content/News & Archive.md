@@ -5,13 +5,22 @@ socialImage: my-images/cover.png
 ---
 # 2026
 
+
+|        |                                                                                                                                                                                                                      |     |
+| ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Apr 15 | [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) live at [Salon Souterrain: Confort Out](https://www.wuk.at/programm/salon-souterrain-confort-out/) at [WUK](https://www.wuk.at/en/wuk-performing-arts/) |     |
+
+|          |                                                                       |     |
+| -------- | --------------------------------------------------------------------- | --- |
+| April -> | Associated Artist at [Bears in the Park](https://bearsinthepark.org/) |     |
+
 |         |                                                                                                                                              |     |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | May-Jun | Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2026S/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/) |     |
 
-|       |                                                                                                                                                                                                                                                                        |
-| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mar 4 | [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) will show his new piece at [WUK](https://www.wuk.at/en/programm/luigi-guerrieri-party/) <br>after the premiere we'll celebrate with a [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) concert! |
+|       |                                                                                                                                                                                                                                                                                               |     |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Mar 4 | [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) live at the premiere party of [PARTY!](https://www.wuk.at/en/programm/luigi-guerrieri-party/) a show by and with [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) at [WUK](https://www.wuk.at/en/wuk-performing-arts/) |     |
 
 |       |                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,7 +65,6 @@ socialImage: my-images/cover.png
 | Nov 14 | Performing [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) at the festival [Pixxelpoint](https://www.pixxelpoint.org/en/en.html), part of the [GO!2025](https://www.go2025.eu), at the [Kulturni Dom](https://kulturnidom-ng.si), Nova Gorica (SI)<br>Check the photos [here](https://bsky.app/profile/stefanodalessio.bsky.social/post/3mele6ylyxq2i) |
 | Nov 5  | Performing [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) at the festival [Theater Der Dinge](https://schaubude.berlin/de/spielplan/fuelnoises/), Berlin (DE)<br>Check the photos [here](https://bsky.app/profile/stefanodalessio.bsky.social/post/3m5h77xbiwt2i)<br>                                                                                 |
 |        | <span style="font-size:0.8em; color:#777; line-height:1.2; display:block;">The tour of [FuelNoises](https://cargocollective.com/stefanodalessio/FuelNoises) has been realized with the support of [BMWKMS](https://www.bmwkms.gv.at/en.html) (Federal Ministry of Housing, Arts, Culture, Media and Sport Republic of Austria)</span>                                       |
-
 
 |         |                                                                                                                                              |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------- |

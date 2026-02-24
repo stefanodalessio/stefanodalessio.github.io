@@ -10,14 +10,11 @@ Below some resources for beginners about Max 9 (https://cycling74.com/)
 - all max modules have an helpfile! right-click on anything and click on "helpfile"
 - on the right side of the patch, the top icon is a magnifying glass, click and search anything you are interested in
 - on the top menu, click on extras, here you have some utilities and after those -below the line- you'll find overviews and guides regarding external packages you have installed
-### Cycling74 website
-- https://docs.cycling74.com/
-- https://cycling74.com/forums
-- https://cycling74.com/articles
-- https://cycling74.com/tutorials?page=1
-- https://docs.cycling74.com/learn/
-### Other Websites
- - http://peterelsea.com/maxtutorials.html
+### Cycling '74 website
+- [C74 Docs](https://docs.cycling74.com/)
+- [C74 Forums](https://cycling74.com/forums)
+- [C74 Articles](https://cycling74.com/articles)
+- [C74 Tutorials](https://cycling74.com/tutorials?page=1)
 ###  Youtube 
 - https://www.youtube.com/@C74connect/videos
 - https://www.youtube.com/@JohnJannone/videos 
@@ -25,3 +22,5 @@ Below some resources for beginners about Max 9 (https://cycling74.com/)
 - https://www.youtube.com/@dearjohnreed/videos
 - https://www.youtube.com/@MUST1002/videos
 - https://www.youtube.com/@dude837/videos
+### Others
+- [MaxCookBook](https://music.arts.uci.edu/dobrian/maxcookbook/)

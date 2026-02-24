@@ -489,7 +489,7 @@ p {
     }
 
     & > * {
-      line-height: 1.25rem;
+      line-height: 1.25rem; // sd change, was 2
     }
   }
 }

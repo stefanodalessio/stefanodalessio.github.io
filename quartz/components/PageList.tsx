@@ -46,6 +46,12 @@ export const PageList: QuartzComponent = ({ cfg, fileData, allFiles, limit, sort
         return (
           <li class="section-li">
             <div class="section">
+              
+               { // sd change, was showing date for all pages, now only shows if date is present in frontmatter
+               /* <p class="meta">
+                {page.dates && <Date date={getDate(cfg, page)!} locale={cfg.locale} />}
+              </p> */}
+              
               <div class="desc">
                 <h3>
                   <a href={resolveRelative(fileData.slug!, page.slug!)} class="internal">
