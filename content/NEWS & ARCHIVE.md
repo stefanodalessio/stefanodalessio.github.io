@@ -3,6 +3,8 @@ draft: false
 title: NEWS & ARCHIVE
 socialImage: my-images/cover.png
 ---
+# NEWS & ARCHIVE
+
 # 2026
 
 
