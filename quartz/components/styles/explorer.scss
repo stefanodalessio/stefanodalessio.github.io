@@ -149,6 +149,10 @@ button#desktop-explorer {
       transform 0.5s ease,//.35
       opacity 0.2s ease;
 
+    & li {
+      margin-bottom: 0.25rem;
+    }
+
     & li > a {
       color: var(--dark);
       opacity: 0.75;
@@ -174,13 +178,14 @@ svg {
   display: flex;
   align-items: center;
   user-select: none;
+  margin-bottom: 0.5rem;
 
   & div > a {
     color: var(--secondary);
     font-family: var(--headerFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
-    line-height: 1.5rem;
+    line-height: 2.5rem; // 1.5 was
     display: inline-block;
   }
 
@@ -206,7 +211,7 @@ svg {
       color: var(--secondary);
       font-weight: $semiBoldWeight;
       margin: 0;
-      line-height: 1.5rem;
+      line-height: 2.5rem; //1.5 was
       pointer-events: none;
     }
   }
