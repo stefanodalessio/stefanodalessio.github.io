@@ -29,65 +29,7 @@ const getExplorerOrder = (rawName: string | undefined) => {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     //Component.Breadcrumbs(),
-    Component.ArticleTitle(),
-    //Component.ContentMeta(),
-    Component.TagList(),
-  ],
-  left: [
-    Component.PageTitle(),
-    Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    //Component.Darkmode(),
-
-    Component.DesktopOnly(Component.Explorer({
-      //title: "_____", // title of the explorer component
-      folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
-      folderDefaultState: "open", // default state of folders ("collapsed" or "open")
-      useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
-      // Sort order: folders first, then files. Sort folders and files alphabetically
-      // sd.changed 
-      sortFn: (a, b) => {
-        const orderA = getExplorerOrder(a.displayName)
-        const orderB = getExplorerOrder(b.displayName)
-
-        if (orderA !== orderB) {
-          return orderA - orderB
-        }
-
-        // fallback to alphabetical when same priority
-        return a.displayName.localeCompare(b.displayName, undefined, {
-          numeric: true,
-          sensitivity: "base",
-        })
-      },
-      
-      //  sd exclude folders from explorer
-      filterFn: (node) => {
-        // set containing names of everything you want to filter out
-        const omit = new Set(["unlisted", "annexes"])
-    
-        // can also use node.slug or by anything on node.data
-        // note that node.data is only present for files that exist on disk
-        // (e.g. implicit folder nodes that have no associated index.md)
-        return !omit.has(node.displayName.toLowerCase())
-      },
-    }
-    )),
-  ],
-
-  // sd killed the stuff below to clean the look of the page 
-  right: [
-    //Component.Graph(),
-    //Component.DesktopOnly(Component.TableOfContents()),
-    //Component.Backlinks(),
-  ],
-}
-
-// components for the index page (no title)
-export const indexPageLayout: PageLayout = {
-  beforeBody: [
-    //Component.Breadcrumbs(),
-    //Component.ArticleTitle(), // Removed for index page
+    //Component.ArticleTitle(),
     //Component.ContentMeta(),
     Component.TagList(),
   ],
