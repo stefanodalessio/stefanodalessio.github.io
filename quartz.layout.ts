@@ -57,10 +57,12 @@ export const defaultContentPageLayout: PageLayout = {
     }
     )),
   ],
+
+  // sd killed the stuff below to clean the look of the page 
   right: [
-    Component.Graph(),
-    Component.DesktopOnly(Component.TableOfContents()),
-    Component.Backlinks(),
+    //Component.Graph(),
+    //Component.DesktopOnly(Component.TableOfContents()),
+    //Component.Backlinks(),
   ],
 }
 
