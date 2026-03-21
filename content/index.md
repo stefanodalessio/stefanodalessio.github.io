@@ -1,5 +1,4 @@
 ---
-title: Welcome Home Human
 tags: 
 socialImage: my-images/cover.png
 ---
