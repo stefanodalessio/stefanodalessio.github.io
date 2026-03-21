@@ -47,10 +47,8 @@ export const defaultContentPageLayout: PageLayout = {
       // Sort order: folders first, then files. Sort folders and files alphabetically
       // sd.changed 
       sortFn: (a, b) => {
-        const nameA = a.file?.slug || a.name
-        const nameB = b.file?.slug || b.name
-        const orderA = getExplorerOrder(nameA)
-        const orderB = getExplorerOrder(nameB)
+        const orderA = getExplorerOrder(a.displayName)
+        const orderB = getExplorerOrder(b.displayName)
 
         if (orderA !== orderB) {
           return orderA - orderB
@@ -102,10 +100,8 @@ export const defaultListPageLayout: PageLayout = {
       useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
       // sd.changed 
        sortFn: (a, b) => {
-        const nameA = a.file?.slug || a.name
-        const nameB = b.file?.slug || b.name
-        const orderA = getExplorerOrder(nameA)
-        const orderB = getExplorerOrder(nameB)
+        const orderA = getExplorerOrder(a.displayName)
+        const orderB = getExplorerOrder(b.displayName)
 
         if (orderA !== orderB) {
           return orderA - orderB
