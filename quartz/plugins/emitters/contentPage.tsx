@@ -79,23 +79,6 @@ export const ContentPage: QuartzEmitterPlugin<Partial<FullPageLayout>> = (userOp
         Footer,
       ]
     },
-
-  return {
-    name: "ContentPage",
-    getQuartzComponents() {
-      return [
-        Head,
-        Header,
-        Body,
-        ...header,
-        ...beforeBody,
-        pageBody,
-        ...afterBody,
-        ...left,
-        ...right,
-        Footer,
-      ]
-    },
     async getDependencyGraph(ctx, content, _resources) {
       const graph = new DepGraph<FilePath>()
 
