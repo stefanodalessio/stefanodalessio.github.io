@@ -16,8 +16,14 @@ export const sharedPageComponents: SharedLayout = {
 
 
 // sd.change folder order to be later recolled by sortFn
-const manualOrder = ["PLOC'", "COLLECTIONS", "NEWS & ARCHIVE", "LINKS"];
+const manualOrder = ["PLOC'", "COLLECTIONS", "NEWS & ARCHIVE", "LINKS"]
+  .map((name) => name.toLowerCase())
 
+const getExplorerOrder = (rawName: string | undefined) => {
+  const name = rawName?.toLowerCase() || ""
+  const index = manualOrder.indexOf(name)
+  return index === -1 ? Number.MAX_SAFE_INTEGER : index
+}
 
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
@@ -41,7 +47,20 @@ export const defaultContentPageLayout: PageLayout = {
       // Sort order: folders first, then files. Sort folders and files alphabetically
       // sd.changed 
       sortFn: (a, b) => {
-        return manualOrder.indexOf(a.name) - manualOrder.indexOf(b.name);
+        const nameA = a.file?.slug || a.name
+        const nameB = b.file?.slug || b.name
+        const orderA = getExplorerOrder(nameA)
+        const orderB = getExplorerOrder(nameB)
+
+        if (orderA !== orderB) {
+          return orderA - orderB
+        }
+
+        // fallback to alphabetical when same priority
+        return a.displayName.localeCompare(b.displayName, undefined, {
+          numeric: true,
+          sensitivity: "base",
+        })
       },
       
       //  sd exclude folders from explorer
@@ -83,7 +102,19 @@ export const defaultListPageLayout: PageLayout = {
       useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
       // sd.changed 
        sortFn: (a, b) => {
-        return manualOrder.indexOf(a.name) - manualOrder.indexOf(b.name);
+        const nameA = a.file?.slug || a.name
+        const nameB = b.file?.slug || b.name
+        const orderA = getExplorerOrder(nameA)
+        const orderB = getExplorerOrder(nameB)
+
+        if (orderA !== orderB) {
+          return orderA - orderB
+        }
+
+        return a.displayName.localeCompare(b.displayName, undefined, {
+          numeric: true,
+          sensitivity: "base",
+        })
       },
 
       //  sd exclude folders from explorer
