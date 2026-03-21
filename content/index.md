@@ -7,12 +7,9 @@ socialImage: my-images/cover.png
 
 Hey! 
 I am ***STEFANO***.
-I am work with embodied interaction, in new media art, performance, music and education.
+I am work with embodied interaction in media art, performance, music and education.
 
-Here is where i publish articles, resources and tutorials about new technology, how to perform live with it and sweating on stage.
-
-If you are here you're probably interested in <span style="font-size:1.2em; font-weight: bold;">
-***[[PLOC']]*** </span>, a collection of articles and tutorials about embodied interaction, new media, performing arts, experimental music, art, cutting-edge tech, and more.
+If you are here you're probably interested in <span style="font-size:1.2em; font-weight: bold;">***[[PLOC']]***</span>, a collection of articles and tutorials about embodied interaction, new media, performing arts, experimental music, art, cutting-edge tech, and more.
 
 Find more stuff via the explorer on your left.
 
