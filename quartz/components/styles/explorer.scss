@@ -142,7 +142,7 @@ button#desktop-explorer {
 
   & ul {
     list-style: none;
-    margin: 0.5rem 0; //.25
+    margin: 1rem 0; //.25
     padding: 0;
     transition:
       max-height 0.5s ease, //.35
@@ -150,7 +150,7 @@ button#desktop-explorer {
       opacity 0.2s ease;
 
     & li {
-      margin-bottom: 0.25rem;
+      margin-bottom: 1rem;
     }
 
     & li > a {
@@ -178,7 +178,7 @@ svg {
   display: flex;
   align-items: center;
   user-select: none;
-  margin-bottom: 0.5rem;
+  margin-bottom: 1rem;
 
   & div > a {
     color: var(--secondary);
