@@ -127,26 +127,26 @@ button#desktop-explorer {
   overflow-y: auto;
   max-height: 0px;
   transition:
-    max-height 0.35s ease,
-    visibility 0s linear 0.35s;
+    max-height 0.5s ease, //.35
+    visibility 0s linear 0.5s; //.35
   margin-top: 0.5rem;
   visibility: hidden;
 
   &.collapsed {
     max-height: 100%;
     transition:
-      max-height 0.35s ease,
+      max-height 0.35s ease, //.35
       visibility 0s linear 0s;
     visibility: visible;
   }
 
   & ul {
     list-style: none;
-    margin: 0.25rem 0;
+    margin: 0.5rem 0; //.25
     padding: 0;
     transition:
-      max-height 0.35s ease,
-      transform 0.35s ease,
+      max-height 0.5s ease, //.35
+      transform 0.5s ease,//.35
       opacity 0.2s ease;
 
     & li > a {
