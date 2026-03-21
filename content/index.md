@@ -9,11 +9,9 @@ Hey!
 I am ***STEFANO***.
 I am work with embodied interaction in media art, performance, music and education.
 
-If you are here you're probably interested in <span style="font-size:1.2em; font-weight: bold;">***[[01 - PLOC']]***</span>, a collection of articles and tutorials about embodied interaction, new media, performing arts, experimental music, art, cutting-edge tech, and more.
+If you are here you're probably interested in <span style="font-size:1.5em; font-weight: bold;">***[[01 - PLOC']]***</span>, a collection of articles and tutorials about embodied interaction, new media, performing arts, experimental music, tech and more.
 
-Find more stuff via the explorer on your left.
+Find more via the explorer on your left, have fun!
 
-Cheers!
-Stefano 
 
 

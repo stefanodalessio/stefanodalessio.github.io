@@ -16,7 +16,7 @@ export const sharedPageComponents: SharedLayout = {
 
 
 // sd.change folder order to be later recolled by sortFn
-const manualOrder = ["Ploc'", "Collections"];
+const manualOrder = ["PLOC'", "COLLECTIONS", "NEWS & ARCHIVE", "LINKS"];
 
 
 // components for pages that display a single page (e.g. a single note)
