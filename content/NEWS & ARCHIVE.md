@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 03 - NEWS & ARCHIVE
+title: NEWS & ARCHIVE
 socialImage: my-images/cover.png
 ---
 # 2026
@@ -24,8 +24,8 @@ socialImage: my-images/cover.png
 
 |       |                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Feb 5 | Publishing the first video tutorial of the *[[01 - PLOC']]* series: <br>\[Ploc' 0.2]: [Embodied Interaction in Max 9 - An Introduction to the ste.snips package](https://www.youtube.com/watch?v=CFEmNGRiO-Y&t=6s)                                                                                                                                                                               |
-|       | <span style="font-size:0.8em; color:#777; line-height:1.2; display:block;">*[[01 - PLOC']]* is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. *[[01 - PLOC']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna) </span> |
+| Feb 5 | Publishing the first video tutorial of the *[[PLOC']]* series: <br>\[Ploc' 0.2]: [Embodied Interaction in Max 9 - An Introduction to the ste.snips package](https://www.youtube.com/watch?v=CFEmNGRiO-Y&t=6s)                                                                                                                                                                               |
+|       | <span style="font-size:0.8em; color:#777; line-height:1.2; display:block;">*[[PLOC']]* is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. *[[PLOC']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna) </span> |
 
 |        |                                                                                                                                                                                                                                                                                                                                            |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 04 - LINKS
+title: LINKS
 socialImage: my-images/cover.png
 ---
 Below some links to click away...

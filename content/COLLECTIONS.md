@@ -1,5 +1,5 @@
 ---
-title: 02 - COLLECTIONS
+title: COLLECTIONS
 tags:
 ---
 Lots of links to lots of different useful stuff!
