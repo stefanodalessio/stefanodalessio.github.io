@@ -10,7 +10,8 @@ I am <span style="font-size:1.5em; font-weight: bold;">***STEFANO D'ALESSIO***</
 I work with embodied interaction in media art, performance, music and education.
 
 Want to learn how to use embodied media in your creations? 
-<span style="font-size:1.5em; font-weight: bold;">***[[PLOC']]***</span> is a collection of articles and tutorials about embodied interaction, new media, performing arts, experimental music, tech and more.
+
+<span style="font-size:1.5em; font-weight: bold;">***[[PLOC']]***</span> is a series of articles and video tutorials about embodied interaction, new media, performance, art, music, tech and more.
 
 Find more via the explorer on your left, have fun!
 
