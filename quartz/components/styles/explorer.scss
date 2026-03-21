@@ -150,7 +150,7 @@ button#desktop-explorer {
       opacity 0.2s ease;
 
     & li {
-      margin-bottom: 1rem;
+      padding: 0.5rem 0;
     }
 
     & li > a {
@@ -185,7 +185,7 @@ svg {
     font-family: var(--headerFont);
     font-size: 0.95rem;
     font-weight: $semiBoldWeight;
-    line-height: 2.5rem; // 1.5 was
+    line-height: 1.2rem; // 1.5 was
     display: inline-block;
   }
 
@@ -211,7 +211,7 @@ svg {
       color: var(--secondary);
       font-weight: $semiBoldWeight;
       margin: 0;
-      line-height: 2.5rem; //1.5 was
+      line-height: 1.2rem; //1.5 was
       pointer-events: none;
     }
   }
