@@ -129,7 +129,7 @@ button#desktop-explorer {
   transition:
     max-height 0.5s ease, //.35
     visibility 0s linear 0.5s; //.35
-  margin-top: 0.5rem;
+  margin-top: 0.25rem;
   visibility: hidden;
 
   &.collapsed {
@@ -142,7 +142,7 @@ button#desktop-explorer {
 
   & ul {
     list-style: none;
-    margin: 1rem 0; //.25
+    margin: 0.25rem 0; //.25
     padding: 0;
     transition:
       max-height 0.5s ease, //.35
@@ -178,7 +178,7 @@ svg {
   display: flex;
   align-items: center;
   user-select: none;
-  margin-bottom: 1rem;
+  margin-bottom: 0.25rem;
 
   & div > a {
     color: var(--secondary);
