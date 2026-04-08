@@ -12,5 +12,6 @@ Lots of links to lots of different useful stuff!
 
 ### [[Video Resources]]
 
-### [CC Search Engine ](https://search.creativecommons.org/)
 ### [[Text Resources]]
+
+### [CC Search Engine ](https://search.creativecommons.org/)
