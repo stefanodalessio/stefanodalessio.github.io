@@ -64,7 +64,7 @@ export const defaultContentPageLayout: PageLayout = {
       //  sd exclude folders from explorer
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["unlisted", "annexes"])
+        const omit = new Set(["unlisted", "annexes", "ploc'"])
     
         // can also use node.slug or by anything on node.data
         // note that node.data is only present for files that exist on disk
@@ -116,7 +116,7 @@ export const defaultListPageLayout: PageLayout = {
       //  sd exclude folders from explorer
       filterFn: (node) => {
         // set containing names of everything you want to filter out
-        const omit = new Set(["unlisted", "annexes"])
+        const omit = new Set(["unlisted", "annexes", "ploc'"])
     
         // can also use node.slug or by anything on node.data
         // note that node.data is only present for files that exist on disk
