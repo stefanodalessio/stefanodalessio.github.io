@@ -6,24 +6,45 @@ tags:
 
 A series of articles and video tutorials on embodied interaction, new media, performance, art, music and technology - with a DIY, low-budget, accessible approach.
 
-In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar pel ploc" literally would be "to roll in the mud" but it has the common meaning of making fun of. 
+In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar pel ploc" literally would be "to roll in the mud" but it has the common meaning of "making fun of.". 
 <span style="font-size:0.8em; color:#777; line-height:1.; display:block;">(from [vocabolario triestino-italiano](https://www.atrieste.eu/Wiki/doku.php?id=dialetto:pi))</span>
-
-*[[PLOC']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna)
-
-![[Stadt Wien_Logo_flipped.png | 100]]
 
 ---
 ## ARTICLES
-### [[0.0 Introduction to Ploc']]
 
-### [[0.1 software installation]]
 
-### [0.2 Introduction to Max and ste.snips](0.2-Embodied-Interaction-in-Max-9---An-Introduction-to-the-ste.snips-package)
+
+# **[[0.0 Introduction to Ploc'|0.0]]**
+### **[[0.0 Introduction to Ploc'|I N T R O D U C T I O N]]**
+### **[[0.0 Introduction to Ploc'|T O   P L O C ']]**  
+
+
+
+
+
+[![[0.0_Banner.jpg]]](<0.1 Software installation>)
+
+### [[0.1 Software installation]]
+
+![[0.0_Banner.jpg]]
+
+---
+
+
+[![some text here!](0.0_Banner.jpg)]([[0.0 Introduction to Ploc']])
+### [0.2 Introduction to Max and ste.snips](0.2-Embodied-Interaction-in-Max-9---An-Introduction-to-the-ste.snips-package) 
 
 ### [[1.0 Control Video Speed with Movement]]
+
+### [[1.1 Control a Projection with Movement (mini project)]]
 
 ---
 ## ANNEXES
 
-### [[about Max and why i use it]]
+### [[About Max and why I use it]]
+
+---
+
+*[[PLOC']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna)
+
+![[Stadt Wien_Logo_flipped.png | 100]]
