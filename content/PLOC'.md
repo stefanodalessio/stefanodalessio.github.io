@@ -2,7 +2,7 @@
 title: PLOC'
 tags:
 ---
-# PLOC'
+# P L O C '
 
 A series of articles and video tutorials on embodied interaction, new media, performance, art, music and technology - with a DIY, low-budget, accessible approach.
 
@@ -11,15 +11,14 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 
 ---
 # ARTICLES
-[![[0.0_Banner.jpg]]](<0.1 Software Installation.md>)
-# **[[0.0 Introduction to Ploc'|0.0 INTRODUCTION TO PLOC']]**
-# [[0.1 Software Installation|0.1 SOFTWARE INSTALLATION]]
-# [0.2 INTRODUCTION TO MAX AND THE STE.SNIPS](0.2-Embodied-Interaction-in-Max-9---An-Introduction-to-the-ste.snips-package) 
-# [[1.0 Control Video Speed with Movement|1.0 CONTROL VIDEO SPEED WITH MOVEMENT]]
-# [[1.1 Control a Projection with Movement (mini project)|1.1 CONTROL A PROJECTION WITH MOVEMENT (MINI PROJECT)]]
+# **[[0.0 Introduction to Ploc'|0.0 - INTRODUCTION TO PLOC']]**
+# [[0.1 Software Installation|0.1 - SOFTWARE INSTALLATION]]
+# [0.2 - INTRODUCTION TO MAX AND THE STE.SNIPS](0.2-Embodied-Interaction-in-Max-9---An-Introduction-to-the-ste.snips-package) 
+# [[1.0 Control Video Speed with Movement|1.0 - CONTROL VIDEO SPEED WITH MOVEMENT]]
+# [[1.1 Control a Projection with Movement (mini project)|1.1 - CONTROL A PROJECTION WITH MOVEMENT (MINI PROJECT)]]
 
 ---
-## ANNEXES
+# ANNEXES
 
 ### [[About Max and why I use it]]
 
