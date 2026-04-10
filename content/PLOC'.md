@@ -10,17 +10,17 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 <span style="font-size:0.8em; color:#777; line-height:1.; display:block;">(from [vocabolario triestino-italiano](https://www.atrieste.eu/Wiki/doku.php?id=dialetto:pi))</span>
 
 ---
-# ARTICLES
-# **[[0.0 Introduction to Ploc'|0.0 - INTRODUCTION TO PLOC']]**
-# [[0.1 Software Installation|0.1 - SOFTWARE INSTALLATION]]
-# [0.2 - INTRODUCTION TO MAX AND THE STE.SNIPS](0.2-Embodied-Interaction-in-Max-9---An-Introduction-to-the-ste.snips-package) 
-# [[1.0 Control Video Speed with Movement|1.0 - CONTROL VIDEO SPEED WITH MOVEMENT]]
-# [[1.1 Control a Projection with Movement (mini project)|1.1 - CONTROL A PROJECTION WITH MOVEMENT (MINI PROJECT)]]
+## ARTICLES
+## **[[0.0 Introduction to Ploc'|0.0 - INTRODUCTION TO PLOC']]**
+## [[0.1 Software Installation|0.1 - SOFTWARE INSTALLATION]]
+## [0.2 - INTRODUCTION TO MAX AND THE STE.SNIPS](0.2-Embodied-Interaction-in-Max-9---An-Introduction-to-the-ste.snips-package) 
+## [[1.0 Control Video Speed with Movement|1.0 - CONTROL VIDEO SPEED WITH MOVEMENT]]
+## [[1.1 Control a Projection with Movement (mini project)|1.1 - CONTROL A PROJECTION WITH MOVEMENT (MINI PROJECT)]]
 
 ---
-# ANNEXES
+## ANNEXES
 
-### [[About Max and why I use it]]
+## [[About Max and why I use it]]
 
 ---
 
