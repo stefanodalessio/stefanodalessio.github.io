@@ -174,12 +174,21 @@ a {
       grid-template-areas: #{map.get($mobileGrid, templateAreas)};
     }
 
-    @media all and not ($desktop) {
+// sd deleted
+/*
+
+@media all and not ($desktop) {
       padding: 0 1rem;
     }
+
+*/
+// ... and added the 3 lines below
+
+
     @media all and ($mobile) {
       margin: 0 auto;
     }
+    
 
     & .sidebar {
       gap: 2rem;
