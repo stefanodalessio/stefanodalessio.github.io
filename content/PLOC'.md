@@ -13,13 +13,13 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 ## ARTICLES
 
 ## [[0.0 Introduction to Ploc'| 0.0 · INTRO. TO PLOC']]
-<img src="0.0_Banner.jpg" style="margin-top:-50px; position:relative; display:block; opacity:0.2; pointer-events:none;">
+<img src="0.0_Banner.jpg" style="margin-top:-50px; position:relative; display:block; opacity:0.2; pointer-events:none; width:875px; min-width:875px;">
 
 ## [[0.1 Software Installation| 0.1 · SOFTWARE INSTALLATION ]]
-<img src="0.1_Banner.jpg" style="margin-top:-50px; position:relative; display:block; opacity:0.2; pointer-events:none;">
+<img src="0.1_Banner.jpg" style="margin-top:-50px; position:relative; display:block; opacity:0.2; pointer-events:none; width:875px; min-width:875px;">
 
 ## [0.2 · INTRO. TO MAX & STE.SNIPS](0.2-Embodied-Interaction-in-Max-9---An-Introduction-to-the-ste.snips-package) 
-<img src="0.2_Banner.jpg" style="margin-top:-50px; position:relative; display:block; opacity:0.2; pointer-events:none;">
+<img src="0.2_Banner.jpg" style="margin-top:-50px; position:relative; display:block; opacity:0.2; pointer-events:none; width:875px; min-width:875px;">
 
 ---
 ## [[1.0 Control Video Speed with Movement| 1.0 · CONTROL VIDEO SPEED WITH MOVEMENT ]]
