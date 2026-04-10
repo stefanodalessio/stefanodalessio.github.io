@@ -1,7 +1,7 @@
 ---
 tags:
 socialImage: my-images/cover.png
-title: "STEFANO <span style=\"white-space: nowrap;\">D'ALESSIO</span>"
+title: "STEFANO<br><span style=\"white-space: nowrap;\">D'ALESSIO</span>"
 ---
 <iframe width="100%" height="200" src="https://stefanodalessio.github.io/cablesHomeRender"></iframe>
 
