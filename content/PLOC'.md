@@ -19,7 +19,7 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 ## [0.2 · INTRODUCTION TO MAX AND THE STE.SNIPS](0.2-Embodied-Interaction-in-Max-9---An-Introduction-to-the-ste.snips-package) 
 ---
 ## [[1.0 Control Video Speed with Movement|1.0 · CONTROL VIDEO SPEED WITH MOVEMENT]]
-### ↳[[1.1 Control a Projection with Movement (mini project)|1.1 · MAKE IT A PROJECTED BODY IN SPACE !]]
+### [[1.1 Control a Projection with Movement (mini project)|↳1.1 · MAKE IT A PROJECTED BODY IN SPACE !]]
 ### ↳COMING SOON...
 
 ---
