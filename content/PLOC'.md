@@ -15,8 +15,8 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 
 
 # **[[0.0 Introduction to Ploc'|0.0 INTRODUCTION TO PLOC']]**
-[![[0.0_Banner.jpg]]](<0.1 Software Installation.md>)
-# [[0.1 Software Installation]]
+[![[0.0_Banner.jpg]]](<0.1 Software Installation 0.1.md>)
+# [[0.1 Software Installation 0.1]]
 
 ## 2qwe
 
@@ -24,7 +24,7 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 
 #### 4qwe
 
-### [[0.1 Software Installation]]
+### [[0.1 Software Installation 0.1]]
 
 ![[0.0_Banner.jpg]]
 
