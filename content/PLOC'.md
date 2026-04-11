@@ -34,7 +34,7 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 ---
 ## ANNEXES
 
-## [[About Max and why I use it]]
+## [[Why I use Max]]
 
 ---
 
