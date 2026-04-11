@@ -4,7 +4,8 @@
     "experimentalDecorators": true,
     "module": "esnext",
     "target": "esnext",
-    "moduleResolution": "nodeNext",
+    "moduleResolution": "node",
+    "ignoreDeprecations": "6.0",
     // sd changed this above: updated from deprecated "node" to "nodeNext"
     "strict": true,
     "incremental": true,

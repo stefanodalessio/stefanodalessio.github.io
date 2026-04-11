@@ -15,7 +15,7 @@ export const sharedPageComponents: SharedLayout = {
 }
 
 
-// sd.change folder order to be later recolled by sortFn
+// sd.change folder order to be later recalled by sortFn
 const manualOrder = ["PLOC'", "COLLECTIONS", "NEWS & ARCHIVE", "LINKS"]
   .map((name) => name.toLowerCase())
 
@@ -46,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
       useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
       // Sort order: folders first, then files. Sort folders and files alphabetically
       // sd.changed 
-      sortFn: (a, b) => {
+      sortFn: (a: any, b: any) => {
         const orderA = getExplorerOrder(a.displayName)
         const orderB = getExplorerOrder(b.displayName)
 
@@ -62,7 +62,7 @@ export const defaultContentPageLayout: PageLayout = {
       },
       
       //  sd exclude folders from explorer
-      filterFn: (node) => {
+      filterFn: (node: any) => {
         // set containing names of folders to filter out
         const omit = new Set(["unlisted", "annexes", "ploc'"])
     
@@ -99,7 +99,7 @@ export const defaultListPageLayout: PageLayout = {
       folderDefaultState: "open", // default state of folders ("collapsed" or "open")
       useSavedState: true, // whether to use local storage to save "state" (which folders are opened) of explorer
       // sd.changed 
-       sortFn: (a, b) => {
+       sortFn: (a: any, b: any) => {
         const orderA = getExplorerOrder(a.displayName)
         const orderB = getExplorerOrder(b.displayName)
 
@@ -114,7 +114,7 @@ export const defaultListPageLayout: PageLayout = {
       },
 
       //  sd exclude folders from explorer
-      filterFn: (node) => {
+      filterFn: (node: any) => {
         // set containing names of folders to filter out
         const omit = new Set(["unlisted", "annexes", "ploc'"])
     
