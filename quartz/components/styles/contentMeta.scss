@@ -1,7 +1,7 @@
 .content-meta {
   display: none; //sd added to kill date and reading time
   margin-top: 0;
-  color: var(--gray);
+  color: var(--darkgray);
 
   &[show-comma="true"] {
     > *:not(:last-child) {

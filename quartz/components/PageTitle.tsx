@@ -17,7 +17,8 @@ PageTitle.css = `
 .page-title {
   font-size: 1.75rem;
   margin: 0;
-  white-space: pre-wrap;
+  font-family: var(--titleFont);
 }
 `
+
 export default (() => PageTitle) satisfies QuartzComponentConstructor

@@ -28,7 +28,10 @@ const getExplorerOrder = (rawName: string | undefined) => {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    //Component.Breadcrumbs(),
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
     //Component.ArticleTitle(),
     //Component.ContentMeta(),
     Component.TagList(),
@@ -37,8 +40,8 @@ export const defaultContentPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    //Component.Darkmode(),
-
+    Component.Darkmode(),
+    Component.ReaderMode(),
     Component.DesktopOnly(Component.Explorer({
       //title: "_____", // title of the explorer component
       folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
@@ -91,9 +94,9 @@ export const defaultListPageLayout: PageLayout = {
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
-    //Component.Darkmode(),
+    Component.Darkmode(),
+    Component.ReaderMode(),
     Component.DesktopOnly(Component.Explorer({
-
       //title: "_____", // title of the explorer component
       folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
       folderDefaultState: "open", // default state of folders ("collapsed" or "open")
