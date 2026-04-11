@@ -565,8 +565,9 @@ ol.overflow {
   content: "";
   clear: both;
 
+  // sd changed this below: removed margin-bottom: 30px from last item
   & > li:last-of-type {
-    margin-bottom: 30px;
+    margin-bottom: 0;
   }
   /*&:after {
     pointer-events: none;
