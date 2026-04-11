@@ -196,7 +196,8 @@ a {
       box-sizing: border-box;
       padding: $topSpacing 2rem 2rem 2rem;
       display: flex;
-      height: 100vh;
+      max-height: 100vh;
+      // sd changed this below: changed from height: 100vh to max-height: 100vh to prevent empty scroll space
       position: sticky;
     }
 
