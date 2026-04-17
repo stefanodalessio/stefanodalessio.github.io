@@ -27,6 +27,7 @@ a few sites where you can easily download or create audio content when you need 
 	- [typaTone](https://typatone.com/)
 	- https://sonicgarbage.greg.technology/ (unsure about license, but cool project)
 	- [10kdrummachines](https://10kdrummachines.com/)
+	- [Intersymmetric](https://intersymmetric.xyz/)
 	- [sdaw](https://sdaw.pages.dev/) (made with  [RNBO](https://rnbo.cycling74.com/))
 	- electronic music club (in development, made with [RNBO](https://rnbo.cycling74.com/))
 		- [dancer](https://electronic-music.club/play/dancer/)
@@ -38,7 +39,6 @@ a few sites where you can easily download or create audio content when you need 
 		- [room](https://electronic-music.club/play/models/room/)
 		- [vowels](https://electronic-music.club/play/models/vowels/)
 		
-
 
 - tools
 	- 90's computer voices [generator](http://websdr.ewi.utwente.nl:8901/)

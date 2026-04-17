@@ -1,6 +1,7 @@
 ---
 title: PLOC'
 tags:
+socialImage: my-images/cover.png
 ---
 # P L O C '
 

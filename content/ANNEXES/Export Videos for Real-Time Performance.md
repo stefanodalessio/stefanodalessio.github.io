@@ -172,6 +172,12 @@ You did not use an editing software?
 
 Once your media is optimized your patches run smoother, the interaction feels responsive and your system becomes more reliable.
 
+---
+
+*[[PLOC']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna)
+
+![[Stadt Wien_Logo_flipped.png | 100]]
+
 
 
 
