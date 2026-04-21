@@ -174,16 +174,9 @@ a {
       grid-template-areas: #{map.get($mobileGrid, templateAreas)};
     }
 
-// sd deleted
-/*
-
-@media all and not ($desktop) {
-      padding: 0 1rem;
+    @media all and not ($desktop) {
+      padding: 0 1.5rem;
     }
-
-*/
-// ... and added the 3 lines below
-
 
     @media all and ($mobile) {
       margin: 0 auto;

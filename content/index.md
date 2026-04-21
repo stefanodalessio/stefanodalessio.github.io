@@ -3,7 +3,7 @@ tags:
 socialImage: my-images/cover.png
 title: "STEFANO               D'ALESSIO"
 ---
-<iframe width="95%" height="200" src="https://stefanodalessio.github.io/cablesHomeRender"></iframe>
+<iframe width="98%" height="200" src="https://stefanodalessio.github.io/cablesHomeRender"></iframe>
 
 Hey! 
 I am <span style="font-size:1.5em; font-weight: bold;">***STEFANO D'ALESSIO***</span>.
