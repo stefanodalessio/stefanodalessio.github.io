@@ -81,10 +81,6 @@ a {
 
   &.internal {
     text-decoration: none;
-    background-color: var(--highlight);
-    padding: 0 0.1rem;
-    border-radius: 5px;
-    line-height: 1.4rem;
 
     &:has(> img) {
       background-color: transparent;
@@ -98,12 +94,19 @@ a {
     }
   }
 
-  &.external .external-icon {
-    height: 1ex;
-    margin: 0 0.15em;
+  &.external {
+    background-color: var(--highlight);
+    padding: 0 0.1rem;
+    border-radius: 5px;
+    line-height: 1.4rem;
 
-    > path {
-      fill: var(--dark);
+    .external-icon {
+      height: 1ex;
+      margin: 0 0.15em;
+
+      > path {
+        fill: var(--dark);
+      }
     }
   }
 }
@@ -153,6 +156,7 @@ a {
 
   & > #quartz-body {
     display: grid;
+    align-items: start;
     grid-template-columns: #{map.get($desktopGrid, templateColumns)};
     grid-template-rows: #{map.get($desktopGrid, templateRows)};
     column-gap: #{map.get($desktopGrid, columnGap)};
