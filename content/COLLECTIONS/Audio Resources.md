@@ -25,7 +25,7 @@ a few sites where you can easily download or create audio content when you need 
 - web instruments / samplers
 	- [patatap](https://patatap.com/)
 	- [typaTone](https://typatone.com/)
-	- https://sonicgarbage.greg.technology/ (unsure about license, but cool project)
+	- [sonicGarbage](https://sonicgarbage.greg.technology/) (unsure about license, but cool project)
 	- [10kdrummachines](https://10kdrummachines.com/)
 	- [sdaw](https://sdaw.pages.dev/) (made with  [RNBO](https://rnbo.cycling74.com/))
 	- electronic music club (in development, made with [RNBO](https://rnbo.cycling74.com/))
