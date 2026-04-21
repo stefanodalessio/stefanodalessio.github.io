@@ -174,10 +174,6 @@ a {
       grid-template-areas: #{map.get($mobileGrid, templateAreas)};
     }
 
-    @media all and not ($desktop) {
-      padding: 0 1.5rem;
-    }
-
     @media all and ($mobile) {
       margin: 0 auto;
     }
@@ -265,6 +261,7 @@ a {
       @media all and ($mobile) {
         margin-right: 0;
         margin-left: 0;
+        padding: 0 1.5rem;
       }
     }
     & footer {
