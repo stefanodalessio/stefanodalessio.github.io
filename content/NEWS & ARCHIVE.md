@@ -8,17 +8,35 @@ socialImage: my-images/cover.png
 # 2026
 
 
+
+
+|         |                                                                                                                                              |     |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| May-Jun | Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2026S/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/) |     |
+
 |        |                                                                                                                                                                                                                      |     |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | Apr 15 | [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) live at [Salon Souterrain: Confort Out](https://www.wuk.at/programm/salon-souterrain-confort-out/) at [WUK](https://www.wuk.at/en/wuk-performing-arts/) |     |
+|        |                                                                                                                                                                                                                      |     |
+
+|          |                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| April 11 | Publishing the video tutorial: [[Export Videos for Real-Time Performance]], part of the *[[PLOC']]* series                                                                                                                                                                                                                                                                                  |     |
+|          | <span style="font-size:0.8em; color:#777; line-height:1.2; display:block;">*[[PLOC']]* is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. *[[PLOC']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna) </span> |     |
+
+|         |                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| April 5 | Publishing the video tutorial: [[1.1 Control a Projection with Movement (mini project)\|Control a Projection with Movement]], part of the *[[PLOC']]* series                                                                                                                                                                                                                                |     |
+|         | <span style="font-size:0.8em; color:#777; line-height:1.2; display:block;">*[[PLOC']]* is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. *[[PLOC']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna) </span> |     |
 
 |          |                                                                       |     |
 | -------- | --------------------------------------------------------------------- | --- |
 | April -> | Associated Artist at [Bears in the Park](https://bearsinthepark.org/) |     |
 
-|         |                                                                                                                                              |     |
-| ------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --- |
-| May-Jun | Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2026S/S05420/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/) |     |
+|        |                                                                                                                                                                                                                                                                                                                                                                                             |     |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| Mar 23 | Publishing the video tutorial: [[1.0 Control Video Speed with Movement \|Control Videos with body Movement]], part of the *[[PLOC']]* series                                                                                                                                                                                                                                                |     |
+|        | <span style="font-size:0.8em; color:#777; line-height:1.2; display:block;">*[[PLOC']]* is a series of video tutorials / lectures / workshops for performers, musicians, artists, who wants to implement embodied interaction in their projects. *[[PLOC']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna) </span> |     |
 
 |       |                                                                                                                                                                                                                                                                                               |     |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
