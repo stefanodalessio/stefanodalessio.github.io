@@ -39,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     //Component.Darkmode(),
 
-    Component.DesktopOnly(Component.Explorer({
+    Component.Explorer({
       //title: "_____", // title of the explorer component
       folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
       folderDefaultState: "open", // default state of folders ("collapsed" or "open")
@@ -71,8 +71,7 @@ export const defaultContentPageLayout: PageLayout = {
         // (e.g. implicit folder nodes that have no associated index.md)
         return !(omit.has(node.displayName.toLowerCase()) && node.file === null)
       },
-    }
-    )),
+    }),
   ],
 
   // sd killed the stuff below to clean the look of the page 
@@ -92,7 +91,7 @@ export const defaultListPageLayout: PageLayout = {
     Component.MobileOnly(Component.Spacer()),
     Component.Search(),
     //Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer({
+    Component.Explorer({
 
       //title: "_____", // title of the explorer component
       folderClickBehavior: "link", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
@@ -123,8 +122,7 @@ export const defaultListPageLayout: PageLayout = {
         // (e.g. implicit folder nodes that have no associated index.md)
         return !(omit.has(node.displayName.toLowerCase()) && node.file === null)
       },
-    }
-    )),
+    }),
   ],
   right: [],
 }
