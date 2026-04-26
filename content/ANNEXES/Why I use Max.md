@@ -35,5 +35,5 @@ to wrap up... i use Max because i am comfortable with it and because it lets me 
 
 *[[PLOC']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna)
 
-![[Stadt Wien_Logo_flipped.png | 100]]
+![[Stadt Wien_Logo_flipped.png | 200]]
 
