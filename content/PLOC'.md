@@ -14,7 +14,6 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 ## ARTICLES
 
 
-
 ## [[0.0 Introduction to Ploc'| 0.0 · INTRO. TO PLOC']]
 <img src="0.0_Banner.jpg" style="margin-top:-70px; position:relative; display:block; opacity:0.2; pointer-events:none; width:800px; min-width:800px;">
 
@@ -40,10 +39,12 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 
 ## [[Why I use Max]] 
 
-## [[Export Videos for Real-Time Performance]]
+## [[Exporting Videos for Real-Time Performance]]
+
+## [[Make Better Interactive Videos (Looping, Retiming & Color)]]
 
 ---
 
 *[[PLOC']]* is realized with the support of  [MA7](https://www.wien.gv.at/kontakt/ma07) (Cultural Department of the City of Vienna)
 
-![[Stadt Wien_Logo_flipped.png | 200]]
+![[Stadt Wien_Logo_flipped.png | 300]]

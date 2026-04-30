@@ -174,7 +174,7 @@ Goal: High contrast, clean background, readable subject.
 If footage wasn’t shot in slow motion, use optical flow to generate intermediate frames.
 50% speed will give you a good balance between slow motion and quality.![[plocA_ve_davinciSmooth_06.png]]
 
-> [!warning] Sound Pitch!
+> [!warning] Sound Pitch
 > In DaVinci, when slowing video, the audio pitch must be adjusted.
 > 
 > For example: 
