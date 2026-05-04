@@ -250,12 +250,12 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       box-sizing: border-box;
       overscroll-behavior: none;
       z-index: 100;
-      position: absolute;
+      position: fixed;
       top: 0;
+      left: 0;
       background-color: var(--light);
       max-width: 100dvw;
-      left: -100dvw;
-      width: 100%;
+      width: 100dvw;
       transition: transform 300ms ease-in-out;
       overflow: hidden;
       padding: $topSpacing 2rem 2rem;
@@ -263,9 +263,10 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       max-height: 100dvh;
       margin-top: 0;
       visibility: hidden;
+      transform: translateX(-100%);
 
-      &:not(.collapsed) {
-        transform: translateX(100dvw);
+      &.mobile-open {
+        transform: translateX(0);
         visibility: visible;
       }
 
@@ -274,9 +275,8 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
         width: 100%;
       }
 
-      &.collapsed {
-        transform: translateX(0);
-        visibility: visible;
+      &:not(.mobile-open) {
+        visibility: hidden;
       }
     }
 
@@ -284,7 +284,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       margin: 5px;
       z-index: 101;
 
-      &:not(.collapsed) .lucide-menu {
+      &.mobile-open .lucide-menu {
         transform: rotate(-90deg);
         transition: transform 200ms ease-in-out;
       }

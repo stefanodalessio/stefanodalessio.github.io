@@ -4,6 +4,20 @@ import { FolderState } from "../ExplorerNode"
 type MaybeHTMLElement = HTMLElement | undefined
 let currentExplorerState: FolderState[]
 
+function setMobileExplorerState(
+  explorer: HTMLElement,
+  content: HTMLElement,
+  isOpen: boolean,
+) {
+  explorer.classList.toggle("mobile-open", isOpen)
+  explorer.setAttribute("aria-expanded", isOpen ? "true" : "false")
+  content.classList.toggle("mobile-open", isOpen)
+  content.style.transform = isOpen ? "translateX(0)" : "translateX(-100%)"
+  content.style.visibility = isOpen ? "visible" : "hidden"
+  content.style.pointerEvents = isOpen ? "auto" : "none"
+  document.querySelector("#quartz-body")?.classList.toggle("lock-scroll", isOpen)
+}
+
 const observer = new IntersectionObserver((entries) => {
   // If last element is observed, remove gradient of "overflow" class so element is visible
   const explorerUl = document.getElementById("explorer-ul")
@@ -18,6 +32,19 @@ const observer = new IntersectionObserver((entries) => {
 })
 
 function toggleExplorer(this: HTMLElement) {
+  const content = (
+    this.nextElementSibling?.nextElementSibling
+      ? this.nextElementSibling.nextElementSibling
+      : this.nextElementSibling
+  ) as MaybeHTMLElement
+  if (!content) return
+
+  if (this.id === "mobile-explorer") {
+    const isOpen = !this.classList.contains("mobile-open")
+    setMobileExplorerState(this, content, isOpen)
+    return
+  }
+
   // Toggle collapsed state of entire explorer
   this.classList.toggle("collapsed")
 
@@ -26,22 +53,7 @@ function toggleExplorer(this: HTMLElement) {
     "aria-expanded",
     this.getAttribute("aria-expanded") === "true" ? "false" : "true",
   )
-
-  const content = (
-    this.nextElementSibling?.nextElementSibling
-      ? this.nextElementSibling.nextElementSibling
-      : this.nextElementSibling
-  ) as MaybeHTMLElement
-  if (!content) return
   content.classList.toggle("collapsed")
-  content.classList.toggle("explorer-viewmode")
-
-  // Prevent scroll under
-  if (document.querySelector("#mobile-explorer")) {
-    // Disable scrolling on the page when the explorer is opened on mobile
-    const bodySelector = document.querySelector("#quartz-body")
-    if (bodySelector) bodySelector.classList.toggle("lock-scroll")
-  }
 }
 
 function toggleFolder(evt: MouseEvent) {
@@ -170,11 +182,9 @@ window.addEventListener("resize", setupExplorer)
 function initializeExplorerView() {
   const explorer = document.querySelector("#mobile-explorer")
   if (explorer) {
-    explorer.classList.add("collapsed")
     const content = explorer.nextElementSibling?.nextElementSibling as HTMLElement
     if (content) {
-      content.classList.add("collapsed")
-      content.classList.remove("explorer-viewmode")
+      setMobileExplorerState(explorer, content, false)
     }
   }
   setupExplorer()
