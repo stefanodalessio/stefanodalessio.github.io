@@ -167,14 +167,14 @@ function toggleExplorerFolders() {
 
 window.addEventListener("resize", setupExplorer)
 
-document.addEventListener("nav", () => {
+function initializeExplorerView() {
   const explorer = document.querySelector("#mobile-explorer")
   if (explorer) {
     explorer.classList.add("collapsed")
     const content = explorer.nextElementSibling?.nextElementSibling as HTMLElement
     if (content) {
       content.classList.add("collapsed")
-      content.classList.toggle("explorer-viewmode")
+      content.classList.remove("explorer-viewmode")
     }
   }
   setupExplorer()
@@ -192,7 +192,10 @@ document.addEventListener("nav", () => {
   hiddenUntilDoneLoading?.classList.remove("hide-until-loaded")
 
   toggleExplorerFolders()
-})
+}
+
+document.addEventListener("nav", initializeExplorerView)
+document.addEventListener("DOMContentLoaded", initializeExplorerView)
 
 /**
  * Toggles the state of a given folder
