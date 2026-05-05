@@ -40,10 +40,19 @@ function toggleExplorer(this: HTMLElement) {
   if (!content) return
 
   if (this.id === "mobile-explorer") {
+    if (!window.matchMedia("(max-width: 800px)").matches) {
+      return
+    }
     const isOpen = !this.classList.contains("mobile-open")
     setMobileExplorerState(this, content, isOpen)
     return
   }
+
+  // Ensure desktop relies on stylesheet classes, not mobile inline styles.
+  content.style.removeProperty("transform")
+  content.style.removeProperty("visibility")
+  content.style.removeProperty("pointer-events")
+  content.classList.remove("mobile-open")
 
   // Toggle collapsed state of entire explorer
   this.classList.toggle("collapsed")
@@ -184,7 +193,18 @@ function initializeExplorerView() {
   if (explorer) {
     const content = explorer.nextElementSibling?.nextElementSibling as HTMLElement
     if (content) {
-      setMobileExplorerState(explorer, content, false)
+      if (window.matchMedia("(max-width: 800px)").matches) {
+        setMobileExplorerState(explorer, content, false)
+      } else {
+        explorer.classList.remove("mobile-open")
+        explorer.setAttribute("aria-expanded", "false")
+        content.classList.remove("mobile-open")
+        content.classList.add("collapsed")
+        content.style.removeProperty("transform")
+        content.style.removeProperty("visibility")
+        content.style.removeProperty("pointer-events")
+        document.querySelector("#quartz-body")?.classList.remove("lock-scroll")
+      }
     }
   }
   setupExplorer()

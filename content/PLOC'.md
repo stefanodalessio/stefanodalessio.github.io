@@ -33,7 +33,8 @@ In triestine dialect ploc [ˈplɔʧ] means mud or puddle. For example "Remenar p
 ## [[1.2 Control a Talking Head with Hand Movements (mini project)|└─ 1.2 · MAKE IT THE PERFORMER'S TALKING HEAD !]]
 <img src="1.2_Banner.jpg" style="margin-top:-70px; position:relative; display:block; opacity:0.2; pointer-events:none; width:800px; min-width:800px;">
 
-## └─ COMING SOON...
+## [[1.3 Control a Video Mapping with Movement (mini project)|└─ 1.3 · MAKE IT AN INTERACTIVE VIDEO MAPPING !]]
+<img src="1.3_Banner.png" style="margin-top:-70px; position:relative; display:block; opacity:0.2; pointer-events:none; width:800px; min-width:800px;">
 
 ---
 ## ANNEXES
