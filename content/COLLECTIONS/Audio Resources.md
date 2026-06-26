@@ -29,6 +29,7 @@ a few sites where you can easily download or create audio content when you need 
 	- [10kdrummachines](https://10kdrummachines.com/)
 	- [Intersymmetric](https://intersymmetric.xyz/)
 	- [sdaw](https://sdaw.pages.dev/) (made with  [RNBO](https://rnbo.cycling74.com/))
+	- [smol](https://stretta.com/labs/smol/)
 	- electronic music club (in development, made with [RNBO](https://rnbo.cycling74.com/))
 		- [dancer](https://electronic-music.club/play/dancer/)
 		- [string](https://electronic-music.club/play/models/string/)

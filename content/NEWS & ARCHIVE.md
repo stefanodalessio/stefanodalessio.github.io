@@ -16,6 +16,10 @@ https://www.festwochen.at/myths-of-exposure
 
 
 
+|         |                                                                                                                                                                                                      |     |     |
+| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| June 24 | [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) live at [Before Summer Break](https://bearsinthepark.org/before-summer-break-2026/) at [Bears in the Park](https://bearsinthepark.org/) |     |     |
+
 |        |                                                                                                                                                                                                                                                        |     |     |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- |
 | May 27 | [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) live at [Wiener Festwochen](https://www.festwochen.at/home) / [Transmythical: Myths of Exposure](https://www.festwochen.at/myths-of-exposure) at [Badeschiff](https://www.badeschiff.at/) |     |     |
