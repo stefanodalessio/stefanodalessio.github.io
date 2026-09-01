@@ -8,17 +8,35 @@ socialImage: my-images/cover.png
 # 2026
 
 
+|         |                                                                                              |
+| ------- | -------------------------------------------------------------------------------------------- |
+| Dec 1-4 | Teaching  _Generative Sound and Visual Art_ at [FH Salzburg](https://www.fh-salzburg.ac.at/) |
 
+|             |                                                                                                                                              |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oct-<br>Nov | Teaching Performance and Interaction at [FH Salzburg](https://www.fh-salzburg.ac.at/) with [Arno Deutchbauer](https://www.pointnormals.com/) |
 
+|         |                                                                                                                                              |     |     |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| Oct-Dec | Teaching [Embodied Media](https://base.uni-ak.ac.at/courses/2026W/S51243/) at [Angewandte Performance Laboratory](https://apl.uni-ak.ac.at/) |     |     |
 
+|        |                                                                                                                                                                                                      |     |     |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
+| Jun 24 | [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) live at [Before Summer Break](https://bearsinthepark.org/before-summer-break-2026/) at [Bears in the Park](https://bearsinthepark.org/) |     |     |
 
-|         |                                                                                                                                                                                                      |     |     |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
-| June 24 | [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) live at [Before Summer Break](https://bearsinthepark.org/before-summer-break-2026/) at [Bears in the Park](https://bearsinthepark.org/) |     |     |
+|        |                                                                                                                                                                                                                                                                                                                                                                     |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Jun 18 | Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.9                                                                                                                                                                                                                                                                                         |
+|        | <span style="font-size:0.8em; color:#777; line-height:1.2; display:block;">[ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.</span> |
 
 |        |                                                                                                                                                                                                                                                        |     |     |
 | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --- | --- |
 | May 27 | [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) live at [Wiener Festwochen](https://www.festwochen.at/home) / [Transmythical: Myths of Exposure](https://www.festwochen.at/myths-of-exposure) at [Badeschiff](https://www.badeschiff.at/) |     |     |
+
+|        |                                                                                                                                                                                                                                                                                                                                                                     |
+| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| May 14 | Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.8                                                                                                                                                                                                                                                                                         |
+|        | <span style="font-size:0.8em; color:#777; line-height:1.2; display:block;">[ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.</span> |
 
 |         |                                                                                                                                              |     |     |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
@@ -51,6 +69,11 @@ socialImage: my-images/cover.png
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
 | Mar 4 | [GIGGIDALESSIO](https://www.youtube.com/watch?v=gbr-w0ZD8R0) live at the premiere party of [PARTY!](https://www.wuk.at/en/programm/luigi-guerrieri-party/) a show by and with [Luigi Guerrieri](https://www.luigiguerrieri.com/content/) at [WUK](https://www.wuk.at/en/wuk-performing-arts/) |     |
 
+|       |                                                                                                                                                                                                                                                                                                                                                                     |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mar 2 | Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.7                                                                                                                                                                                                                                                                                         |
+|       | <span style="font-size:0.8em; color:#777; line-height:1.2; display:block;">[ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.</span> |
+
 |       |                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Feb 5 | Publishing the first video tutorial of the *[[PLOC']]* series: <br>\[Ploc' 0.2]: [Embodied Interaction in Max 9 - An Introduction to the ste.snips package](https://www.youtube.com/watch?v=CFEmNGRiO-Y&t=6s)                                                                                                                                                                               |
@@ -75,9 +98,9 @@ socialImage: my-images/cover.png
 | Dec 9 | Release of [ste.snips](https://github.com/stefanodalessio/ste.snips) v0.0.6                                                                                                                                                                                                                                                                                         |
 |       | <span style="font-size:0.8em; color:#777; line-height:1.2; display:block;">[ste.snips](https://github.com/stefanodalessio/ste.snips) is a package for [Max9](https://cycling74.com/products/max), a collection of snippets designed to speed up and simplify your Max experience, with a focus on embodied interactivity and real-time audio-visual synergy.</span> |
 
-|         |                                                                                                                                                                              |
-| ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Dec 1-4 | Teaching *Generative Sound and Visual Art* at [FH Salzburg](https://www.fh-salzburg.ac.at/) / [MultiMediaArt](https://www.fh-salzburg.ac.at/studium/ct/multimediaart-master) |
+|         |                                                                                                                                                                               |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dec 1-4 | Teaching  _Generative Sound and Visual Art_ at [FH Salzburg](https://www.fh-salzburg.ac.at/) / [MultiMediaArt](https://www.fh-salzburg.ac.at/studium/ct/multimediaart-master) |
 
 |        |                                                                                                                                                                                                                      |
 | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

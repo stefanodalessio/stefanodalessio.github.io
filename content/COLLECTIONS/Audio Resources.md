@@ -42,6 +42,7 @@ a few sites where you can easily download or create audio content when you need 
 		
 
 - tools
+	- web DAW [audiomass](https://audiomass.co/)
 	- 90's computer voices [generator](http://websdr.ewi.utwente.nl:8901/)
 	- [chain samples editor and export](https://digichain.brianbar.net/)
 	- [Vocal Remover & Instrumental AI Splitter | LALAL.AI](https://www.lalal.ai/)

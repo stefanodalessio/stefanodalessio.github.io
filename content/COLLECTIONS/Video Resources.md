@@ -35,3 +35,6 @@ a few sites where you can easily download or create video content when you need 
 	- youtube creative commons [filter](https://www.youtube.com/results?search_query=HD&sp=EgIwAQ%253D%253D)
 	- AI gen sora in [bing](https://www.bing.com/images/create?ctype=video)
 
+- tools
+	- [OpenCut](https://opencut.app/editor?project=bb4307e1-23fe-4963-866d-f259b20fc2bc) webapp
+
