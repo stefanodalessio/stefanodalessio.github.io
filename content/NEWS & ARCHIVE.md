@@ -12,9 +12,9 @@ socialImage: my-images/cover.png
 | ------- | -------------------------------------------------------------------------------------------- |
 | Dec 1-4 | Teaching  _Generative Sound and Visual Art_ at [FH Salzburg](https://www.fh-salzburg.ac.at/) |
 
-|             |                                                                                                                                              |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| Oct-<br>Nov | Teaching Performance and Interaction at [FH Salzburg](https://www.fh-salzburg.ac.at/) with [Arno Deutchbauer](https://www.pointnormals.com/) |
+|             |                                                                                                                                                |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oct-<br>Nov | Teaching _Performance and Interaction_ at [FH Salzburg](https://www.fh-salzburg.ac.at/) with [Arno Deutchbauer](https://www.pointnormals.com/) |
 
 |         |                                                                                                                                              |     |     |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --- | --- |
